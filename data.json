@@ -1,10 +1,10 @@
 {
  "by_rule_total": {
   "P": 287,
-  "V": 135
+  "V": 136
  },
  "chains": {
-  "bsc": 86,
+  "bsc": 87,
   "robinhood": 69,
   "solana": 155
  },
@@ -1960,7 +1960,7 @@
     },
     "faded_pct": 9.848,
     "labeled": 132,
-    "pending": 0,
+    "pending": 1,
     "rug_ci": [
      63.0,
      78.2
@@ -1975,10 +1975,25 @@
     "sw_pct": 18.939,
     "win_pct": 6.061
    },
-   "n": 132
+   "n": 133
   }
  },
  "hits": [
+  {
+   "ca": "0x1486…68ac",
+   "chain": "bsc",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 20:01",
+   "tw": null,
+   "x": null
+  },
   {
    "ca": "3zKe25…pump",
    "chain": "solana",
@@ -6630,11 +6645,11 @@
    "x": null
   }
  ],
- "hits_clean": 310,
+ "hits_clean": 311,
  "hits_excluded": 112,
- "hits_total": 422,
- "last_hit_pt": "Oct 13, 2026 7:28 PM PT",
- "last_scan_pt": "Oct 13, 2026 7:28 PM PT",
+ "hits_total": 423,
+ "last_hit_pt": "Oct 13, 2026 8:01 PM PT",
+ "last_scan_pt": "Oct 13, 2026 8:01 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -6705,7 +6720,7 @@
    "pending": 2
   }
  },
- "scans": 213,
+ "scans": 214,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -6714,6 +6729,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-13T19:28:00-07:00",
- "updated_pt": "Oct 13, 2026 7:28 PM PT"
+ "updated_iso": "2026-10-13T20:01:00-07:00",
+ "updated_pt": "Oct 13, 2026 8:01 PM PT"
 }
