@@ -1929,36 +1929,36 @@
     },
     "6h": {
      "counts": {
-      "FADED": 13,
+      "FADED": 14,
       "RUG": 64,
       "SURVIVOR": 14,
       "WINNER": 8
      },
-     "faded_pct": 13.131,
-     "labeled": 99,
+     "faded_pct": 14.0,
+     "labeled": 100,
      "rug_ci": [
-      54.8,
-      73.4
+      54.2,
+      72.7
      ],
-     "rug_pct": 64.646,
-     "surv_pct": 14.141,
+     "rug_pct": 64.0,
+     "surv_pct": 14.0,
      "sw": 22,
      "sw_ci": [
-      15.2,
-      31.4
+      15.0,
+      31.1
      ],
-     "sw_pct": 22.222,
-     "win_pct": 8.081
+     "sw_pct": 22.0,
+     "win_pct": 8.0
     }
    },
    "latest": {
     "counts": {
-     "FADED": 12,
+     "FADED": 13,
      "RUG": 94,
      "SURVIVOR": 17,
-     "WINNER": 9
+     "WINNER": 8
     },
-    "faded_pct": 9.091,
+    "faded_pct": 9.848,
     "labeled": 132,
     "pending": 0,
     "rug_ci": [
@@ -1967,13 +1967,13 @@
     ],
     "rug_pct": 71.212,
     "surv_pct": 12.879,
-    "sw": 26,
+    "sw": 25,
     "sw_ci": [
-     13.8,
-     27.3
+     13.2,
+     26.5
     ],
-    "sw_pct": 19.697,
-    "win_pct": 6.818
+    "sw_pct": 18.939,
+    "win_pct": 6.061
    },
    "n": 132
   }
@@ -2057,11 +2057,11 @@
   {
    "ca": "0xd7e3…79f4",
    "chain": "robinhood",
-   "last": "WINNER",
+   "last": "FADED",
    "o": {
     "1h": "WINNER",
     "24h": null,
-    "6h": null
+    "6h": "FADED"
    },
    "rule": "V",
    "s": null,
@@ -6604,7 +6604,7 @@
  "hits_excluded": 112,
  "hits_total": 420,
  "last_hit_pt": "Oct 13, 2026 5:34 PM PT",
- "last_scan_pt": "Oct 13, 2026 6:44 PM PT",
+ "last_scan_pt": "Oct 13, 2026 7:05 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -6675,7 +6675,7 @@
    "pending": 0
   }
  },
- "scans": 211,
+ "scans": 212,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -6684,6 +6684,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-13T18:44:00-07:00",
- "updated_pt": "Oct 13, 2026 6:44 PM PT"
+ "updated_iso": "2026-10-13T19:05:00-07:00",
+ "updated_pt": "Oct 13, 2026 7:05 PM PT"
 }
