@@ -1,0 +1,6689 @@
+{
+ "by_rule_total": {
+  "P": 285,
+  "V": 135
+ },
+ "chains": {
+  "bsc": 86,
+  "robinhood": 68,
+  "solana": 154
+ },
+ "days_covered": 9,
+ "desk": {
+  "all": {
+   "avg_loss_r": -0.58,
+   "avg_win_r": 0.87,
+   "gross_loss": 12.06,
+   "gross_win": 12.86,
+   "losses": 7,
+   "n": 13,
+   "net": 0.8,
+   "pf": 1.07,
+   "scratch": 1,
+   "win_rate": 38.462,
+   "wins": 5
+  },
+  "all_after_entry_fees": {
+   "avg_loss_r": -0.56,
+   "avg_win_r": 0.96,
+   "gross_loss": 13.45,
+   "gross_win": 11.39,
+   "losses": 8,
+   "n": 13,
+   "net": -2.06,
+   "pf": 0.85,
+   "scratch": 1,
+   "win_rate": 30.769,
+   "wins": 4
+  },
+  "by_source": [
+   {
+    "losses": 1,
+    "n": 3,
+    "net": 6.21,
+    "source": "Paper Desk hunt",
+    "win_rate": 66.667,
+    "wins": 2
+   },
+   {
+    "losses": 2,
+    "n": 3,
+    "net": -1.2,
+    "source": "legacy",
+    "win_rate": 33.333,
+    "wins": 1
+   },
+   {
+    "losses": 1,
+    "n": 2,
+    "net": -0.92,
+    "source": "Crypto Perps Alert Bot",
+    "win_rate": 50.0,
+    "wins": 1
+   },
+   {
+    "losses": 2,
+    "n": 2,
+    "net": -3.06,
+    "source": "Paper Desk (user ask)",
+    "win_rate": 0.0,
+    "wins": 0
+   }
+  ],
+  "curve": [
+   [
+    1790217840,
+    200.0
+   ],
+   [
+    1790217994,
+    199.82
+   ],
+   [
+    1790217994,
+    199.6402
+   ],
+   [
+    1790217994,
+    199.4605
+   ],
+   [
+    1790217995,
+    199.281
+   ],
+   [
+    1790217995,
+    199.1016
+   ],
+   [
+    1790258194,
+    199.1016
+   ],
+   [
+    1790264573,
+    197.1729
+   ],
+   [
+    1790278811,
+    197.1729
+   ],
+   [
+    1790286105,
+    195.453
+   ],
+   [
+    1790322260,
+    195.453
+   ],
+   [
+    1790328827,
+    196.2807
+   ],
+   [
+    1790358047,
+    196.2807
+   ],
+   [
+    1790365006,
+    197.9041
+   ],
+   [
+    1790407708,
+    197.9041
+   ],
+   [
+    1790408178,
+    197.6636
+   ],
+   [
+    1790984276,
+    197.6636
+   ],
+   [
+    1790990205,
+    197.4857
+   ],
+   [
+    1790990205,
+    197.308
+   ],
+   [
+    1790991317,
+    197.308
+   ],
+   [
+    1790991433,
+    197.1304
+   ],
+   [
+    1790991434,
+    196.953
+   ],
+   [
+    1791056283,
+    196.953
+   ],
+   [
+    1791057334,
+    196.7757
+   ],
+   [
+    1791057372,
+    196.953
+   ],
+   [
+    1791120550,
+    196.953
+   ],
+   [
+    1791120751,
+    196.0667
+   ],
+   [
+    1791142043,
+    196.0667
+   ],
+   [
+    1791142708,
+    196.2763
+   ],
+   [
+    1791149760,
+    196.2763
+   ],
+   [
+    1791156328,
+    196.8645
+   ],
+   [
+    1791221700,
+    196.8645
+   ],
+   [
+    1791229222,
+    199.9215
+   ],
+   [
+    1791229222,
+    202.7833
+   ],
+   [
+    1791337075,
+    202.7833
+   ],
+   [
+    1791344112,
+    201.0682
+   ],
+   [
+    1791365809,
+    201.0682
+   ],
+   [
+    1791372684,
+    200.4638
+   ],
+   [
+    1791372685,
+    200.4638
+   ],
+   [
+    1791380646,
+    197.1105
+   ],
+   [
+    1791423322,
+    197.1105
+   ],
+   [
+    1791430424,
+    201.3628
+   ],
+   [
+    1791430424,
+    201.3628
+   ],
+   [
+    1791432087,
+    201.1816
+   ],
+   [
+    1791434219,
+    201.0006
+   ],
+   [
+    1791459179,
+    201.0006
+   ],
+   [
+    1791467133,
+    199.0432
+   ],
+   [
+    1791467133,
+    199.0432
+   ],
+   [
+    1791485037,
+    197.9402
+   ],
+   [
+    1791941762,
+    197.9402
+   ]
+  ],
+  "entry_fees_closed": 2.86,
+  "equity": 197.94,
+  "first_pt": "Sep 23, 2026 7:44 PM PT",
+  "last_mark_pt": "Oct 13, 2026 6:36 PM PT",
+  "lp_scanner_trades": 0,
+  "max_dd_at": "Oct 7, 2026 6:44 AM PT",
+  "max_dd_pct": 2.8,
+  "open": 0,
+  "pending": 0,
+  "quality": {
+   "avg_loss_r": -0.66,
+   "avg_win_r": 1.08,
+   "gross_loss": 11.78,
+   "gross_win": 12.82,
+   "losses": 6,
+   "n": 10,
+   "net": 1.04,
+   "pf": 1.09,
+   "scratch": 0,
+   "win_rate": 40.0,
+   "wins": 4
+  },
+  "ret_pct": -1.03,
+  "start": 200.0,
+  "trades": [
+   {
+    "closed": "Oct 8 11:43",
+    "closed_iso": "2026-10-08T18:43:57Z",
+    "id": 12,
+    "opened": "Oct 7 21:01",
+    "pnl": -1.1,
+    "reason": "stop",
+    "side": "long",
+    "source": "Paper Desk (user ask)",
+    "void": false
+   },
+   {
+    "closed": "Oct 8 06:45",
+    "closed_iso": "2026-10-08T13:45:33Z",
+    "id": 14,
+    "opened": "Oct 7 21:36",
+    "pnl": -1.96,
+    "reason": "stop",
+    "side": "long",
+    "source": "Paper Desk (user ask)",
+    "void": false
+   },
+   {
+    "closed": "Oct 7 20:33",
+    "closed_iso": "2026-10-08T03:33:44Z",
+    "id": 8,
+    "opened": "Oct 2 18:37",
+    "pnl": 7.31,
+    "reason": "t2",
+    "side": "long",
+    "source": "Paper Desk hunt",
+    "void": false
+   },
+   {
+    "closed": "Oct 7 06:44",
+    "closed_iso": "2026-10-07T13:44:06Z",
+    "id": 9,
+    "opened": "Oct 2 18:37",
+    "pnl": -3.35,
+    "reason": "stop",
+    "side": "long",
+    "source": "Paper Desk hunt",
+    "void": false
+   },
+   {
+    "closed": "Oct 7 04:31",
+    "closed_iso": "2026-10-07T11:31:24Z",
+    "id": 11,
+    "opened": "Oct 4 06:32",
+    "pnl": 2.26,
+    "reason": "stop",
+    "side": "long",
+    "source": "Paper Desk hunt",
+    "void": false
+   },
+   {
+    "closed": "Oct 6 20:35",
+    "closed_iso": "2026-10-07T03:35:12Z",
+    "id": 7,
+    "opened": "Oct 2 18:16",
+    "pnl": -1.72,
+    "reason": "stop",
+    "side": "long",
+    "source": "Crypto Perps Alert Bot",
+    "void": false
+   },
+   {
+    "closed": "Oct 4 16:25",
+    "closed_iso": "2026-10-04T23:25:28Z",
+    "id": 6,
+    "opened": "Oct 2 18:16",
+    "pnl": 0.8,
+    "reason": "t2",
+    "side": "long",
+    "source": "Crypto Perps Alert Bot",
+    "void": false
+   },
+   {
+    "closed": "Oct 3 12:56",
+    "closed_iso": "2026-10-03T19:56:12Z",
+    "id": 10,
+    "opened": "Oct 3 12:55",
+    "pnl": 0.0,
+    "reason": "charter_void",
+    "side": "long",
+    "source": "Crypto Perps Alert Bot",
+    "void": true
+   },
+   {
+    "closed": "Sep 26 00:29",
+    "closed_iso": "2026-09-26T07:29:02Z",
+    "id": 1,
+    "opened": "Sep 23 19:46",
+    "pnl": 0.05,
+    "reason": "charter_void",
+    "side": "short",
+    "source": "legacy",
+    "void": true
+   },
+   {
+    "closed": "Sep 26 00:29",
+    "closed_iso": "2026-09-26T07:29:02Z",
+    "id": 2,
+    "opened": "Sep 23 19:46",
+    "pnl": -0.29,
+    "reason": "charter_void",
+    "side": "short",
+    "source": "legacy",
+    "void": true
+   },
+   {
+    "closed": "Sep 25 12:36",
+    "closed_iso": "2026-09-25T19:36:46Z",
+    "id": 3,
+    "opened": "Sep 23 19:46",
+    "pnl": 2.45,
+    "reason": "t2",
+    "side": "long",
+    "source": "legacy",
+    "void": false
+   },
+   {
+    "closed": "Sep 24 14:41",
+    "closed_iso": "2026-09-24T21:41:45Z",
+    "id": 4,
+    "opened": "Sep 23 19:46",
+    "pnl": -1.72,
+    "reason": "stop",
+    "side": "short",
+    "source": "legacy",
+    "void": false
+   },
+   {
+    "closed": "Sep 24 08:42",
+    "closed_iso": "2026-09-24T15:42:53Z",
+    "id": 5,
+    "opened": "Sep 23 19:46",
+    "pnl": -1.93,
+    "reason": "stop",
+    "side": "short",
+    "source": "legacy",
+    "void": false
+   }
+  ],
+  "voids": 3
+ },
+ "excluded": {
+  "cats": [
+   {
+    "desc": "Logged from CoinGecko fallback data during a DexScreener outage; the h24 > +1000% or pair-age gate could not be applied, and the last DexScreener run had skipped it.",
+    "key": "cg_fallback",
+    "title": "Outage fallback missed a hard skip"
+   },
+   {
+    "desc": "LP roughly equal to FDV at $1M+ (auto rule: LP of $5M+ on a pool under 24h old), very few holders, unlocked LP. Not a real launch.",
+    "key": "fake_lp",
+    "title": "Fake LP farm"
+   },
+   {
+    "desc": "Pegged ~$1 asset or stablecoin-named pool. Not a launch.",
+    "key": "stablecoin",
+    "title": "Stablecoin pool"
+   },
+   {
+    "desc": "Reserves misreported (huge LP with almost no volume), no real trading (1h volume under $2k and 24h under $10k), or a bogus data-feed entry.",
+    "key": "misread",
+    "title": "Misread or dead pool data"
+   },
+   {
+    "desc": "Entry price change of -99% or worse in the data feed.",
+    "key": "misprice",
+    "title": "Price-feed misprint"
+   },
+   {
+    "desc": "10k+ holders, flat 24h price, pool under 6h old: a new pool for an old token, not a new launch.",
+    "key": "major",
+    "title": "Established token on a new pool"
+   }
+  ],
+  "counts": {
+   "cg_fallback": {
+    "P": 21,
+    "V": 0
+   },
+   "fake_lp": {
+    "P": 60,
+    "V": 0
+   },
+   "major": {
+    "P": 2,
+    "V": 2
+   },
+   "misprice": {
+    "P": 1,
+    "V": 1
+   },
+   "misread": {
+    "P": 22,
+    "V": 0
+   },
+   "stablecoin": {
+    "P": 3,
+    "V": 0
+   }
+  },
+  "rows": [
+   {
+    "ca": "BzctpN…pump",
+    "cat": "misread",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 17:03"
+   },
+   {
+    "ca": "2qJvho…YGbz",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 14:35"
+   },
+   {
+    "ca": "HTS2ii…SW4u",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 14:35"
+   },
+   {
+    "ca": "J3e4nE…AHrW",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 14:35"
+   },
+   {
+    "ca": "iZv2G4…KNf5",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 14:35"
+   },
+   {
+    "ca": "CpUqPE…NGSW",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 10:48"
+   },
+   {
+    "ca": "Gj8zxj…MVCs",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 10:48"
+   },
+   {
+    "ca": "8DLi8T…yF2o",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 10:48"
+   },
+   {
+    "ca": "EwNpaA…kpFB",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-13 10:48"
+   },
+   {
+    "ca": "Ecbhgt…qjLw",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 20:36"
+   },
+   {
+    "ca": "BW54C9…7LgB",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 20:36"
+   },
+   {
+    "ca": "72av6Z…KwYc",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 20:36"
+   },
+   {
+    "ca": "avbDvA…M5yd",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 14:05"
+   },
+   {
+    "ca": "spZy4J…PuEh",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 13:07"
+   },
+   {
+    "ca": "8UCbkF…bTo1",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 13:07"
+   },
+   {
+    "ca": "9BY6Cv…3wEe",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 09:21"
+   },
+   {
+    "ca": "5Zn4sX…jss7",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 09:21"
+   },
+   {
+    "ca": "7VqbyY…To72",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 09:21"
+   },
+   {
+    "ca": "5EuM77…RWnX",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 09:21"
+   },
+   {
+    "ca": "EorgVK…DAbS",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-12 09:21"
+   },
+   {
+    "ca": "Ayv8ua…Ks7Z",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 16:37"
+   },
+   {
+    "ca": "0xa8e6…ff5c",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-11 16:37"
+   },
+   {
+    "ca": "6yrbRC…WB8j",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 14:31"
+   },
+   {
+    "ca": "FMtPoB…wNQy",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 14:31"
+   },
+   {
+    "ca": "HZTHWQ…BijD",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 14:31"
+   },
+   {
+    "ca": "FAbQd1…qJHS",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 14:31"
+   },
+   {
+    "ca": "AKi3wo…KnHM",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 14:05"
+   },
+   {
+    "ca": "8RrDei…zASo",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 08:30"
+   },
+   {
+    "ca": "Bwx2js…cu4r",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 08:30"
+   },
+   {
+    "ca": "8G6njB…zjJj",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 08:30"
+   },
+   {
+    "ca": "H7hJCf…rH8f",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 08:30"
+   },
+   {
+    "ca": "G3iMJ6…7Ydo",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-11 08:30"
+   },
+   {
+    "ca": "0xe00b…d827",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-10 08:58"
+   },
+   {
+    "ca": "FDnfrf…nrJN",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-10 08:30"
+   },
+   {
+    "ca": "Bbj61D…zsCh",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-10 08:30"
+   },
+   {
+    "ca": "FXyzMC…L4sE",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-10 08:30"
+   },
+   {
+    "ca": "E9Bsqn…cDFd",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-10 08:30"
+   },
+   {
+    "ca": "2mFhRA…qjKz",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-10 08:30"
+   },
+   {
+    "ca": "9zMWej…Az9n",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 20:34"
+   },
+   {
+    "ca": "BTNiaZ…uPyp",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 20:34"
+   },
+   {
+    "ca": "3kRfUc…16s9",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 20:34"
+   },
+   {
+    "ca": "0xd5f3…de68",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-09 16:38"
+   },
+   {
+    "ca": "0xbc26…da09",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-09 15:32"
+   },
+   {
+    "ca": "0x832a…3f18",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-09 14:39"
+   },
+   {
+    "ca": "0xc17c…4c0c",
+    "cat": "fake_lp",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-09 12:03"
+   },
+   {
+    "ca": "5Sqq3N…TsHd",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 11:32"
+   },
+   {
+    "ca": "89cbQj…ppHn",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 11:32"
+   },
+   {
+    "ca": "5c9Fmb…wRmr",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 11:32"
+   },
+   {
+    "ca": "GMWrcQ…8BiN",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 11:32"
+   },
+   {
+    "ca": "G1p7YZ…ojSH",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 11:32"
+   },
+   {
+    "ca": "8pdSuw…4Jss",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 09:26"
+   },
+   {
+    "ca": "qtguxg…Kww7",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 09:26"
+   },
+   {
+    "ca": "BQz1d8…XFyf",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-09 08:59"
+   },
+   {
+    "ca": "0xd809…1e18",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-08 20:01"
+   },
+   {
+    "ca": "0xb8ad…9062",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-08 20:01"
+   },
+   {
+    "ca": "0x5fc5…d168",
+    "cat": "stablecoin",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-07 18:01"
+   },
+   {
+    "ca": "WLDTE7…3rFn",
+    "cat": "major",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 17:36"
+   },
+   {
+    "ca": "WLDTE7…3rFn",
+    "cat": "major",
+    "chain": "solana",
+    "rule": "V",
+    "t": "2026-10-07 17:36"
+   },
+   {
+    "ca": "0x5fc5…d168",
+    "cat": "stablecoin",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-07 15:34"
+   },
+   {
+    "ca": "2xfF4x…54Dd",
+    "cat": "misread",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 14:01"
+   },
+   {
+    "ca": "ADPN2a…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "6t1pav…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "xyubSX…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "KXCCsm…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "ko9XZo…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "HP4uze…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "fyhFYw…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "p4SDcJ…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "jSVu1x…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "GZeCbN…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "jTqzxN…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "pUDcxq…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "pxoPx2…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "dXQuSQ…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "jF3eHi…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "pmGXrm…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "0x3783…0e06",
+    "cat": "cg_fallback",
+    "chain": "bsc",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "0xbe9d…03e1",
+    "cat": "cg_fallback",
+    "chain": "bsc",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "0x020b…18b4",
+    "cat": "cg_fallback",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "W2SkCP…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "tX76eT…pump",
+    "cat": "cg_fallback",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 13:33"
+   },
+   {
+    "ca": "55WCUh…meme",
+    "cat": "misprice",
+    "chain": "solana",
+    "rule": "V",
+    "t": "2026-10-07 12:33"
+   },
+   {
+    "ca": "55WCUh…meme",
+    "cat": "misprice",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 11:35"
+   },
+   {
+    "ca": "0xa20b…18b4",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-07 10:41"
+   },
+   {
+    "ca": "5Fh9RF…QWAJ",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 09:41"
+   },
+   {
+    "ca": "7m9pAc…rYYU",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-07 09:41"
+   },
+   {
+    "ca": "0xd060…9eec",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 18:01"
+   },
+   {
+    "ca": "0xa9db…4571",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 18:01"
+   },
+   {
+    "ca": "0xce8c…1e18",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 17:29"
+   },
+   {
+    "ca": "0xc60b…b006",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 17:29"
+   },
+   {
+    "ca": "0xe124…68bd",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 16:59"
+   },
+   {
+    "ca": "0xaa07…28a3",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 16:59"
+   },
+   {
+    "ca": "RACEyW…9dLD",
+    "cat": "major",
+    "chain": "solana",
+    "rule": "V",
+    "t": "2026-10-06 16:31"
+   },
+   {
+    "ca": "EUMKkx…8gkN",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-06 14:59"
+   },
+   {
+    "ca": "RACEyW…9dLD",
+    "cat": "major",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-06 14:02"
+   },
+   {
+    "ca": "0x6289…6147",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 12:02"
+   },
+   {
+    "ca": "0x9ad5…3f5c",
+    "cat": "stablecoin",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 11:09"
+   },
+   {
+    "ca": "0xd8e6…ff5c",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-06 11:09"
+   },
+   {
+    "ca": "7H3WLo…XbqD",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-06 08:40"
+   },
+   {
+    "ca": "GivbRJ…bmgJ",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-06 08:40"
+   },
+   {
+    "ca": "0x3578…84b2",
+    "cat": "misread",
+    "chain": "bsc",
+    "rule": "P",
+    "t": "2026-10-05 19:27"
+   },
+   {
+    "ca": "0x79bb…e07c",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-05 18:31"
+   },
+   {
+    "ca": "0xf1d9…e8a4",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-05 16:28"
+   },
+   {
+    "ca": "6Qm867…wHP2",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 11:00"
+   },
+   {
+    "ca": "2fwd5T…jJsX",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 11:00"
+   },
+   {
+    "ca": "HHsPd6…Lajy",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 11:00"
+   },
+   {
+    "ca": "CSidjw…xufM",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 11:00"
+   },
+   {
+    "ca": "6xKicX…7dd9",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 11:00"
+   },
+   {
+    "ca": "0x2fac…a3db",
+    "cat": "misread",
+    "chain": "bsc",
+    "rule": "P",
+    "t": "2026-10-05 10:42"
+   },
+   {
+    "ca": "7jckVe…yVqp",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 10:09"
+   },
+   {
+    "ca": "8fyjL3…vR6r",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 09:40"
+   },
+   {
+    "ca": "77ww1S…K1wH",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-05 08:36"
+   }
+  ]
+ },
+ "first_hit_pt": "Oct 5, 2026 8:36 AM PT",
+ "groups": {
+  "P": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 12,
+      "RUG": 29,
+      "SURVIVOR": 120,
+      "WINNER": 4
+     },
+     "faded_pct": 7.273,
+     "labeled": 165,
+     "rug_ci": [
+      12.5,
+      24.1
+     ],
+     "rug_pct": 17.576,
+     "surv_pct": 72.727,
+     "sw": 124,
+     "sw_ci": [
+      68.0,
+      81.1
+     ],
+     "sw_pct": 75.152,
+     "win_pct": 2.424
+    },
+    "24h": {
+     "counts": {
+      "FADED": 31,
+      "RUG": 70,
+      "SURVIVOR": 56,
+      "WINNER": 11
+     },
+     "faded_pct": 18.452,
+     "labeled": 168,
+     "rug_ci": [
+      34.5,
+      49.2
+     ],
+     "rug_pct": 41.667,
+     "surv_pct": 33.333,
+     "sw": 67,
+     "sw_ci": [
+      32.8,
+      47.4
+     ],
+     "sw_pct": 39.881,
+     "win_pct": 6.548
+    },
+    "6h": {
+     "counts": {
+      "FADED": 26,
+      "RUG": 30,
+      "SURVIVOR": 75,
+      "WINNER": 5
+     },
+     "faded_pct": 19.118,
+     "labeled": 136,
+     "rug_ci": [
+      15.9,
+      29.7
+     ],
+     "rug_pct": 22.059,
+     "surv_pct": 55.147,
+     "sw": 80,
+     "sw_ci": [
+      50.4,
+      66.7
+     ],
+     "sw_pct": 58.824,
+     "win_pct": 3.676
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 32,
+     "RUG": 74,
+     "SURVIVOR": 59,
+     "WINNER": 11
+    },
+    "faded_pct": 18.182,
+    "labeled": 176,
+    "pending": 0,
+    "rug_ci": [
+     35.0,
+     49.4
+    ],
+    "rug_pct": 42.045,
+    "surv_pct": 33.523,
+    "sw": 70,
+    "sw_ci": [
+     32.8,
+     47.1
+    ],
+    "sw_pct": 39.773,
+    "win_pct": 6.25
+   },
+   "n": 176
+  },
+  "PT_is": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 4,
+      "RUG": 4,
+      "SURVIVOR": 41,
+      "WINNER": 2
+     },
+     "faded_pct": 7.843,
+     "labeled": 51,
+     "rug_ci": [
+      3.1,
+      18.5
+     ],
+     "rug_pct": 7.843,
+     "surv_pct": 80.392,
+     "sw": 43,
+     "sw_ci": [
+      72.0,
+      91.8
+     ],
+     "sw_pct": 84.314,
+     "win_pct": 3.922
+    },
+    "24h": {
+     "counts": {
+      "FADED": 15,
+      "RUG": 13,
+      "SURVIVOR": 24,
+      "WINNER": 6
+     },
+     "faded_pct": 25.862,
+     "labeled": 58,
+     "rug_ci": [
+      13.6,
+      34.7
+     ],
+     "rug_pct": 22.414,
+     "surv_pct": 41.379,
+     "sw": 30,
+     "sw_ci": [
+      39.2,
+      64.1
+     ],
+     "sw_pct": 51.724,
+     "win_pct": 10.345
+    },
+    "6h": {
+     "counts": {
+      "FADED": 10,
+      "RUG": 5,
+      "SURVIVOR": 25,
+      "WINNER": 2
+     },
+     "faded_pct": 23.81,
+     "labeled": 42,
+     "rug_ci": [
+      5.2,
+      25.0
+     ],
+     "rug_pct": 11.905,
+     "surv_pct": 59.524,
+     "sw": 27,
+     "sw_ci": [
+      49.2,
+      77.0
+     ],
+     "sw_pct": 64.286,
+     "win_pct": 4.762
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 15,
+     "RUG": 13,
+     "SURVIVOR": 24,
+     "WINNER": 6
+    },
+    "faded_pct": 25.862,
+    "labeled": 58,
+    "pending": 0,
+    "rug_ci": [
+     13.6,
+     34.7
+    ],
+    "rug_pct": 22.414,
+    "surv_pct": 41.379,
+    "sw": 30,
+    "sw_ci": [
+     39.2,
+     64.1
+    ],
+    "sw_pct": 51.724,
+    "win_pct": 10.345
+   },
+   "n": 58
+  },
+  "PT_oos": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 5,
+      "RUG": 3,
+      "SURVIVOR": 31,
+      "WINNER": 0
+     },
+     "faded_pct": 12.821,
+     "labeled": 39,
+     "rug_ci": [
+      2.7,
+      20.3
+     ],
+     "rug_pct": 7.692,
+     "surv_pct": 79.487,
+     "sw": 31,
+     "sw_ci": [
+      64.5,
+      89.2
+     ],
+     "sw_pct": 79.487,
+     "win_pct": 0.0
+    },
+    "24h": {
+     "counts": {
+      "FADED": 11,
+      "RUG": 10,
+      "SURVIVOR": 15,
+      "WINNER": 1
+     },
+     "faded_pct": 29.73,
+     "labeled": 37,
+     "rug_ci": [
+      15.4,
+      43.0
+     ],
+     "rug_pct": 27.027,
+     "surv_pct": 40.541,
+     "sw": 16,
+     "sw_ci": [
+      28.7,
+      59.1
+     ],
+     "sw_pct": 43.243,
+     "win_pct": 2.703
+    },
+    "6h": {
+     "counts": {
+      "FADED": 9,
+      "RUG": 4,
+      "SURVIVOR": 18,
+      "WINNER": 1
+     },
+     "faded_pct": 28.125,
+     "labeled": 32,
+     "rug_ci": [
+      5.0,
+      28.1
+     ],
+     "rug_pct": 12.5,
+     "surv_pct": 56.25,
+     "sw": 19,
+     "sw_ci": [
+      42.3,
+      74.5
+     ],
+     "sw_pct": 59.375,
+     "win_pct": 3.125
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 11,
+     "RUG": 11,
+     "SURVIVOR": 17,
+     "WINNER": 1
+    },
+    "faded_pct": 27.5,
+    "labeled": 40,
+    "pending": 0,
+    "rug_ci": [
+     16.1,
+     42.8
+    ],
+    "rug_pct": 27.5,
+    "surv_pct": 42.5,
+    "sw": 18,
+    "sw_ci": [
+     30.7,
+     60.2
+    ],
+    "sw_pct": 45.0,
+    "win_pct": 2.5
+   },
+   "n": 40
+  },
+  "PT_oos_fail": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 1,
+      "RUG": 13,
+      "SURVIVOR": 25,
+      "WINNER": 0
+     },
+     "faded_pct": 2.564,
+     "labeled": 39,
+     "rug_ci": [
+      20.6,
+      49.0
+     ],
+     "rug_pct": 33.333,
+     "surv_pct": 64.103,
+     "sw": 25,
+     "sw_ci": [
+      48.4,
+      77.3
+     ],
+     "sw_pct": 64.103,
+     "win_pct": 0.0
+    },
+    "24h": {
+     "counts": {
+      "FADED": 2,
+      "RUG": 25,
+      "SURVIVOR": 7,
+      "WINNER": 2
+     },
+     "faded_pct": 5.556,
+     "labeled": 36,
+     "rug_ci": [
+      53.1,
+      82.0
+     ],
+     "rug_pct": 69.444,
+     "surv_pct": 19.444,
+     "sw": 9,
+     "sw_ci": [
+      13.8,
+      41.1
+     ],
+     "sw_pct": 25.0,
+     "win_pct": 5.556
+    },
+    "6h": {
+     "counts": {
+      "FADED": 5,
+      "RUG": 11,
+      "SURVIVOR": 14,
+      "WINNER": 2
+     },
+     "faded_pct": 15.625,
+     "labeled": 32,
+     "rug_ci": [
+      20.4,
+      51.7
+     ],
+     "rug_pct": 34.375,
+     "surv_pct": 43.75,
+     "sw": 16,
+     "sw_ci": [
+      33.6,
+      66.4
+     ],
+     "sw_pct": 50.0,
+     "win_pct": 6.25
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 3,
+     "RUG": 28,
+     "SURVIVOR": 8,
+     "WINNER": 2
+    },
+    "faded_pct": 7.317,
+    "labeled": 41,
+    "pending": 0,
+    "rug_ci": [
+     53.0,
+     80.4
+    ],
+    "rug_pct": 68.293,
+    "surv_pct": 19.512,
+    "sw": 10,
+    "sw_ci": [
+     13.8,
+     39.3
+    ],
+    "sw_pct": 24.39,
+    "win_pct": 4.878
+   },
+   "n": 41
+  },
+  "P_is": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 6,
+      "RUG": 13,
+      "SURVIVOR": 64,
+      "WINNER": 4
+     },
+     "faded_pct": 6.897,
+     "labeled": 87,
+     "rug_ci": [
+      8.9,
+      23.9
+     ],
+     "rug_pct": 14.943,
+     "surv_pct": 73.563,
+     "sw": 68,
+     "sw_ci": [
+      68.4,
+      85.5
+     ],
+     "sw_pct": 78.161,
+     "win_pct": 4.598
+    },
+    "24h": {
+     "counts": {
+      "FADED": 18,
+      "RUG": 35,
+      "SURVIVOR": 34,
+      "WINNER": 8
+     },
+     "faded_pct": 18.947,
+     "labeled": 95,
+     "rug_ci": [
+      27.8,
+      46.9
+     ],
+     "rug_pct": 36.842,
+     "surv_pct": 35.789,
+     "sw": 42,
+     "sw_ci": [
+      34.6,
+      54.2
+     ],
+     "sw_pct": 44.211,
+     "win_pct": 8.421
+    },
+    "6h": {
+     "counts": {
+      "FADED": 12,
+      "RUG": 15,
+      "SURVIVOR": 43,
+      "WINNER": 2
+     },
+     "faded_pct": 16.667,
+     "labeled": 72,
+     "rug_ci": [
+      13.1,
+      31.6
+     ],
+     "rug_pct": 20.833,
+     "surv_pct": 59.722,
+     "sw": 45,
+     "sw_ci": [
+      51.0,
+      72.8
+     ],
+     "sw_pct": 62.5,
+     "win_pct": 2.778
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 18,
+     "RUG": 35,
+     "SURVIVOR": 34,
+     "WINNER": 8
+    },
+    "faded_pct": 18.947,
+    "labeled": 95,
+    "pending": 0,
+    "rug_ci": [
+     27.8,
+     46.9
+    ],
+    "rug_pct": 36.842,
+    "surv_pct": 35.789,
+    "sw": 42,
+    "sw_ci": [
+     34.6,
+     54.2
+    ],
+    "sw_pct": 44.211,
+    "win_pct": 8.421
+   },
+   "n": 95
+  },
+  "P_oos": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 6,
+      "RUG": 16,
+      "SURVIVOR": 56,
+      "WINNER": 0
+     },
+     "faded_pct": 7.692,
+     "labeled": 78,
+     "rug_ci": [
+      13.0,
+      30.8
+     ],
+     "rug_pct": 20.513,
+     "surv_pct": 71.795,
+     "sw": 56,
+     "sw_ci": [
+      61.0,
+      80.6
+     ],
+     "sw_pct": 71.795,
+     "win_pct": 0.0
+    },
+    "24h": {
+     "counts": {
+      "FADED": 13,
+      "RUG": 35,
+      "SURVIVOR": 22,
+      "WINNER": 3
+     },
+     "faded_pct": 17.808,
+     "labeled": 73,
+     "rug_ci": [
+      36.9,
+      59.2
+     ],
+     "rug_pct": 47.945,
+     "surv_pct": 30.137,
+     "sw": 25,
+     "sw_ci": [
+      24.4,
+      45.7
+     ],
+     "sw_pct": 34.247,
+     "win_pct": 4.11
+    },
+    "6h": {
+     "counts": {
+      "FADED": 14,
+      "RUG": 15,
+      "SURVIVOR": 32,
+      "WINNER": 3
+     },
+     "faded_pct": 21.875,
+     "labeled": 64,
+     "rug_ci": [
+      14.7,
+      35.1
+     ],
+     "rug_pct": 23.438,
+     "surv_pct": 50.0,
+     "sw": 35,
+     "sw_ci": [
+      42.6,
+      66.3
+     ],
+     "sw_pct": 54.688,
+     "win_pct": 4.688
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 14,
+     "RUG": 39,
+     "SURVIVOR": 25,
+     "WINNER": 3
+    },
+    "faded_pct": 17.284,
+    "labeled": 81,
+    "pending": 0,
+    "rug_ci": [
+     37.6,
+     58.9
+    ],
+    "rug_pct": 48.148,
+    "surv_pct": 30.864,
+    "sw": 28,
+    "sw_ci": [
+     25.1,
+     45.4
+    ],
+    "sw_pct": 34.568,
+    "win_pct": 3.704
+   },
+   "n": 81
+  },
+  "V": {
+   "horizons": {
+    "1h": {
+     "counts": {
+      "FADED": 10,
+      "RUG": 75,
+      "SURVIVOR": 25,
+      "WINNER": 12
+     },
+     "faded_pct": 8.197,
+     "labeled": 122,
+     "rug_ci": [
+      52.6,
+      69.6
+     ],
+     "rug_pct": 61.475,
+     "surv_pct": 20.492,
+     "sw": 37,
+     "sw_ci": [
+      22.9,
+      39.0
+     ],
+     "sw_pct": 30.328,
+     "win_pct": 9.836
+    },
+    "24h": {
+     "counts": {
+      "FADED": 11,
+      "RUG": 85,
+      "SURVIVOR": 16,
+      "WINNER": 7
+     },
+     "faded_pct": 9.244,
+     "labeled": 119,
+     "rug_ci": [
+      62.7,
+      78.8
+     ],
+     "rug_pct": 71.429,
+     "surv_pct": 13.445,
+     "sw": 23,
+     "sw_ci": [
+      13.2,
+      27.3
+     ],
+     "sw_pct": 19.328,
+     "win_pct": 5.882
+    },
+    "6h": {
+     "counts": {
+      "FADED": 13,
+      "RUG": 64,
+      "SURVIVOR": 14,
+      "WINNER": 8
+     },
+     "faded_pct": 13.131,
+     "labeled": 99,
+     "rug_ci": [
+      54.8,
+      73.4
+     ],
+     "rug_pct": 64.646,
+     "surv_pct": 14.141,
+     "sw": 22,
+     "sw_ci": [
+      15.2,
+      31.4
+     ],
+     "sw_pct": 22.222,
+     "win_pct": 8.081
+    }
+   },
+   "latest": {
+    "counts": {
+     "FADED": 12,
+     "RUG": 94,
+     "SURVIVOR": 17,
+     "WINNER": 9
+    },
+    "faded_pct": 9.091,
+    "labeled": 132,
+    "pending": 0,
+    "rug_ci": [
+     63.0,
+     78.2
+    ],
+    "rug_pct": 71.212,
+    "surv_pct": 12.879,
+    "sw": 26,
+    "sw_ci": [
+     13.8,
+     27.3
+    ],
+    "sw_pct": 19.697,
+    "win_pct": 6.818
+   },
+   "n": 132
+  }
+ },
+ "hits": [
+  {
+   "ca": "HUSgHY…X4v8",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 17:34",
+   "tw": true,
+   "x": 1.08
+  },
+  {
+   "ca": "0xb89d…d23d",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 17:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x61f0…56d8",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 17:03",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x9826…bd49",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 17:03",
+   "tw": null,
+   "x": 2.64
+  },
+  {
+   "ca": "HV2qrd…snQq",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 16:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xd7e3…79f4",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 14:35",
+   "tw": null,
+   "x": 3.07
+  },
+  {
+   "ca": "0x691a…8c4b",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": null,
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 13:33",
+   "tw": false,
+   "x": 0.48
+  },
+  {
+   "ca": "0xf622…4913",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 13:02",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x73dd…1a4a",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 13:02",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x985a…d228",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 12:07",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "FiPY1z…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 12:07",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "CMGi49…hkAQ",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "FADED",
+    "24h": null,
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 11:46",
+   "tw": null,
+   "x": 1.0
+  },
+  {
+   "ca": "0xf1af…9bda",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 11:17",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "GQdEL4…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 10:48",
+   "tw": true,
+   "x": 0.86
+  },
+  {
+   "ca": "HeT1jD…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 10:48",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "GU5NkU…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": null,
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 10:21",
+   "tw": true,
+   "x": 0.95
+  },
+  {
+   "ca": "GVKPp4…JLfS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 10:21",
+   "tw": false,
+   "x": 1.05
+  },
+  {
+   "ca": "0x4db7…f392",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 10:21",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x55a7…cafe",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": null,
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-13 10:21",
+   "tw": false,
+   "x": 0.97
+  },
+  {
+   "ca": "0x2f1b…5b79",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": null,
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 09:48",
+   "tw": null,
+   "x": 0.12
+  },
+  {
+   "ca": "0x82da…b075",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": null,
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-13 09:21",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "4JemMg…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 20:36",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xb1da…b447",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 19:19",
+   "tw": true,
+   "x": 0.76
+  },
+  {
+   "ca": "BECHKS…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 19:19",
+   "tw": true,
+   "x": 0.69
+  },
+  {
+   "ca": "DqkVyH…BAGS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 19:19",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "6ombVv…YMVY",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 18:08",
+   "tw": true,
+   "x": 1.13
+  },
+  {
+   "ca": "0x278f…7b55",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 18:08",
+   "tw": true,
+   "x": 0.65
+  },
+  {
+   "ca": "ANZn6f…BAGS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 17:34",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "FSwBsp…BAGS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 17:07",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "Fak3rJ…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 16:00",
+   "tw": true,
+   "x": 0.79
+  },
+  {
+   "ca": "GkgVK2…tjjE",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 16:00",
+   "tw": false,
+   "x": 0.98
+  },
+  {
+   "ca": "0x73df…0fb0",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 15:10",
+   "tw": null,
+   "x": 2.1
+  },
+  {
+   "ca": "AjpPZo…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 15:10",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "0xe2e4…8b89",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 15:10",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "6NmGZK…kjep",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 14:37",
+   "tw": false,
+   "x": 1.12
+  },
+  {
+   "ca": "8YpC8T…ZGvK",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 14:05",
+   "tw": false,
+   "x": 1.02
+  },
+  {
+   "ca": "HWwk5Z…P9Za",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 14:05",
+   "tw": false,
+   "x": 1.07
+  },
+  {
+   "ca": "EH4cP8…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 13:07",
+   "tw": true,
+   "x": 0.67
+  },
+  {
+   "ca": "0x89de…f5d0",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 13:07",
+   "tw": null,
+   "x": 1.13
+  },
+  {
+   "ca": "0xa5ee…52db",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 13:07",
+   "tw": null,
+   "x": 1.49
+  },
+  {
+   "ca": "0x352f…5478",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 12:45",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xdf91…9d65",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 12:45",
+   "tw": false,
+   "x": 1.05
+  },
+  {
+   "ca": "0x99f6…877e",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 12:05",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x8175…7777",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 11:42",
+   "tw": true,
+   "x": 1.41
+  },
+  {
+   "ca": "0xab85…d4bd",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 11:42",
+   "tw": false,
+   "x": 1.3
+  },
+  {
+   "ca": "98AG3z…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 11:13",
+   "tw": true,
+   "x": 1.33
+  },
+  {
+   "ca": "0xad87…18f4",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 10:48",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "4hsJNm…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 10:12",
+   "tw": false,
+   "x": 9.93
+  },
+  {
+   "ca": "0x181a…2642",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 10:12",
+   "tw": null,
+   "x": 0.11
+  },
+  {
+   "ca": "0x47a2…ec12",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "WINNER",
+    "24h": "SURVIVOR",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 09:51",
+   "tw": null,
+   "x": 2.9
+  },
+  {
+   "ca": "8PGyHC…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 09:21",
+   "tw": true,
+   "x": 1.02
+  },
+  {
+   "ca": "0x5108…50b0",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 09:21",
+   "tw": true,
+   "x": 0.68
+  },
+  {
+   "ca": "8ZP5Cz…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-12 08:52",
+   "tw": true,
+   "x": 0.86
+  },
+  {
+   "ca": "0x5497…7a0b",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-12 08:52",
+   "tw": null,
+   "x": 0.1
+  },
+  {
+   "ca": "0xb3ef…c0bf",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 21:05",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "AVfEas…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 20:34",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x6423…bc61",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 20:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x3359…7987",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 19:36",
+   "tw": null,
+   "x": 2.6
+  },
+  {
+   "ca": "7qb9SH…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 18:06",
+   "tw": false,
+   "x": 0.62
+  },
+  {
+   "ca": "0x2f19…d79c",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 17:36",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "0xeeb8…7777",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 17:06",
+   "tw": true,
+   "x": 0.79
+  },
+  {
+   "ca": "0x7504…3d97",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 17:06",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "DzMwAr…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 15:28",
+   "tw": true,
+   "x": 2.21
+  },
+  {
+   "ca": "8Eo47a…bonk",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 14:31",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x6a04…a935",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 14:31",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "EET8Jf…285d",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 14:05",
+   "tw": null,
+   "x": 0.91
+  },
+  {
+   "ca": "0x0213…0714",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 14:05",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "8vdU6Z…xra6",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 13:33",
+   "tw": false,
+   "x": 0.99
+  },
+  {
+   "ca": "0xfcfe…4444",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 13:33",
+   "tw": true,
+   "x": 1.38
+  },
+  {
+   "ca": "0xd583…1326",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "WINNER",
+    "24h": "SURVIVOR",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 13:33",
+   "tw": null,
+   "x": 6.13
+  },
+  {
+   "ca": "0x6417…debf",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 13:33",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x0697…148f",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 13:02",
+   "tw": null,
+   "x": 1.28
+  },
+  {
+   "ca": "BXuuLQ…wLxB",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 12:30",
+   "tw": true,
+   "x": 1.26
+  },
+  {
+   "ca": "ASTERY…w45Z",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 11:59",
+   "tw": null,
+   "x": 1.0
+  },
+  {
+   "ca": "3SXJaW…BAGS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 11:59",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x53f8…8818",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 11:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x4129…8724",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 11:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xddc6…5728",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 11:32",
+   "tw": null,
+   "x": 0.61
+  },
+  {
+   "ca": "ASTERY…w45Z",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 10:59",
+   "tw": false,
+   "x": 0.99
+  },
+  {
+   "ca": "33jENU…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "WINNER"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 08:57",
+   "tw": true,
+   "x": 4.3
+  },
+  {
+   "ca": "nxPqZ4…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 08:57",
+   "tw": true,
+   "x": 0.88
+  },
+  {
+   "ca": "2Fad8t…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 08:57",
+   "tw": true,
+   "x": 0.91
+  },
+  {
+   "ca": "3RXQt4…oP8t",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-11 08:57",
+   "tw": false,
+   "x": 0.98
+  },
+  {
+   "ca": "0x6dbe…2de9",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-11 08:57",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "xaXX2i…moon",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 20:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x00bb…129a",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": null,
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 20:59",
+   "tw": null,
+   "x": 0.36
+  },
+  {
+   "ca": "HiPS6q…moon",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 20:28",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "9XmCLG…bonk",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 19:58",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x3a38…1d99",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "WINNER",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 17:07",
+   "tw": null,
+   "x": 4.89
+  },
+  {
+   "ca": "CgU6mu…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 16:04",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "9g4Pib…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "FADED",
+    "24h": "SURVIVOR",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 15:32",
+   "tw": true,
+   "x": 0.99
+  },
+  {
+   "ca": "4qLmyF…2wxA",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 15:32",
+   "tw": false,
+   "x": 1.24
+  },
+  {
+   "ca": "4bKks4…bonk",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 15:32",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x108a…7ed8",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 15:32",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "Cx2xKb…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:59",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x3606…8ebf",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 14:59",
+   "tw": null,
+   "x": 2.35
+  },
+  {
+   "ca": "9LAHK5…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:35",
+   "tw": false,
+   "x": 2.36
+  },
+  {
+   "ca": "3VSGKp…fCLX",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:35",
+   "tw": false,
+   "x": 0.95
+  },
+  {
+   "ca": "86TUCh…xYEt",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:35",
+   "tw": false,
+   "x": 1.29
+  },
+  {
+   "ca": "9h96uf…5VU4",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:35",
+   "tw": false,
+   "x": 0.95
+  },
+  {
+   "ca": "BXgbcJ…EewQ",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:35",
+   "tw": false,
+   "x": 1.66
+  },
+  {
+   "ca": "0x17c2…303f",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 14:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xf923…4a2f",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 14:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "6eR6nC…yUkk",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 14:00",
+   "tw": true,
+   "x": 1.61
+  },
+  {
+   "ca": "0x67d7…5dad",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 14:00",
+   "tw": null,
+   "x": 5.3
+  },
+  {
+   "ca": "0x12b3…4b1b",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 13:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "85Mo19…aQcg",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 13:02",
+   "tw": true,
+   "x": 1.64
+  },
+  {
+   "ca": "0x2298…e092",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 13:02",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "AEPBdj…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 11:36",
+   "tw": true,
+   "x": 0.98
+  },
+  {
+   "ca": "0x58f6…9254",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 10:58",
+   "tw": null,
+   "x": 0.12
+  },
+  {
+   "ca": "apiANK…1api",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 10:30",
+   "tw": true,
+   "x": 1.25
+  },
+  {
+   "ca": "0xf5e8…45ba",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 10:30",
+   "tw": null,
+   "x": 0.43
+  },
+  {
+   "ca": "0xf99e…6dee",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 10:06",
+   "tw": null,
+   "x": 1.22
+  },
+  {
+   "ca": "BQAeeS…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 09:29",
+   "tw": null,
+   "x": 0.65
+  },
+  {
+   "ca": "0x0571…2c10",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 09:29",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x2c2d…7777",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:58",
+   "tw": false,
+   "x": 0.98
+  },
+  {
+   "ca": "BQAeeS…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:30",
+   "tw": true,
+   "x": 1.15
+  },
+  {
+   "ca": "FDJqEq…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:30",
+   "tw": true,
+   "x": 1.2
+  },
+  {
+   "ca": "6KDpQM…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:30",
+   "tw": true,
+   "x": 0.94
+  },
+  {
+   "ca": "0xb402…7777",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:30",
+   "tw": true,
+   "x": 1.24
+  },
+  {
+   "ca": "0x4e61…7777",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-10 08:30",
+   "tw": true,
+   "x": 1.19
+  },
+  {
+   "ca": "0x67bf…76ee",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 08:30",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x7ffd…70c4",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-10 08:30",
+   "tw": null,
+   "x": 1.91
+  },
+  {
+   "ca": "0xdd11…3360",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 20:57",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "489jhy…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 20:34",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "0xc3c3…c4bd",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 20:02",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x76b8…b603",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 17:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xebc3…48bd",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 17:34",
+   "tw": null,
+   "x": 1.13
+  },
+  {
+   "ca": "9JGk3d…bonk",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 17:01",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0xa175…1443",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 16:38",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xbf3d…93f9",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 16:38",
+   "tw": false,
+   "x": 1.0
+  },
+  {
+   "ca": "ERkmk5…uBit",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "FADED",
+    "24h": "SURVIVOR",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 15:32",
+   "tw": true,
+   "x": 0.98
+  },
+  {
+   "ca": "AoYpSW…BAGS",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 15:08",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x39b0…005b",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 14:05",
+   "tw": false,
+   "x": 1.46
+  },
+  {
+   "ca": "5YfTnU…moon",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 14:05",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "5yuiTS…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 13:41",
+   "tw": true,
+   "x": 0.98
+  },
+  {
+   "ca": "0x7770…b6d9",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 13:41",
+   "tw": null,
+   "x": 8.04
+  },
+  {
+   "ca": "0xfc17…681d",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 13:12",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xcb4c…9fd9",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 13:12",
+   "tw": null,
+   "x": 3.05
+  },
+  {
+   "ca": "0x646a…0a9b",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 13:12",
+   "tw": false,
+   "x": 1.13
+  },
+  {
+   "ca": "0x646a…0a9b",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 13:12",
+   "tw": null,
+   "x": 1.13
+  },
+  {
+   "ca": "0xdfe4…b99b",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 12:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xd023…c094",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 12:03",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x7461…2e96",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 12:03",
+   "tw": null,
+   "x": 0.68
+  },
+  {
+   "ca": "0xd82e…86fe",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 11:32",
+   "tw": true,
+   "x": 1.0
+  },
+  {
+   "ca": "0xb0a2…aa67",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 11:32",
+   "tw": null,
+   "x": 1.28
+  },
+  {
+   "ca": "0x383f…457e",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 11:32",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "rzAfM3…bonk",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 11:32",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "W6mmGA…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 10:55",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "2x3kud…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 10:55",
+   "tw": true,
+   "x": 1.2
+  },
+  {
+   "ca": "7SsZWP…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 10:55",
+   "tw": false,
+   "x": 1.49
+  },
+  {
+   "ca": "0xe2f0…a247",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 10:55",
+   "tw": true,
+   "x": 1.01
+  },
+  {
+   "ca": "0x2c86…944a",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 10:55",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x1898…53ab",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 10:16",
+   "tw": null,
+   "x": 1.22
+  },
+  {
+   "ca": "0xc60b…b006",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-09 10:16",
+   "tw": false,
+   "x": 1.0
+  },
+  {
+   "ca": "0x1e0b…3187",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 10:16",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x4dc9…7602",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-09 09:54",
+   "tw": false,
+   "x": 0.82
+  },
+  {
+   "ca": "9vHPLD…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-09 09:26",
+   "tw": true,
+   "x": 0.67
+  },
+  {
+   "ca": "4mbPZz…jupx",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-09 09:26",
+   "tw": true,
+   "x": 1.52
+  },
+  {
+   "ca": "0x6715…d4f6",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 08:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x0c19…6fd8",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-09 08:59",
+   "tw": null,
+   "x": 1.31
+  },
+  {
+   "ca": "64oAuE…YgCp",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": null,
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 21:06",
+   "tw": true,
+   "x": 0.9
+  },
+  {
+   "ca": "0x7e2c…2fb9",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-08 21:06",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "86rShF…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 20:01",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "7K52aY…cxLh",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": null,
+    "24h": "WINNER",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": true,
+   "x": 5.01
+  },
+  {
+   "ca": "Y9ccqr…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": null,
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": true,
+   "x": 0.53
+  },
+  {
+   "ca": "6NVSVo…3vGj",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": null,
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": true,
+   "x": 1.04
+  },
+  {
+   "ca": "7sFbzP…b4Wz",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "3ND6FS…jazs",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": null,
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": true,
+   "x": 1.26
+  },
+  {
+   "ca": "iB1K25…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 17:00",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "9oxWMh…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 15:20",
+   "tw": true,
+   "x": 1.03
+  },
+  {
+   "ca": "ESWML2…PBgf",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 13:51",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "6ibBzL…zGUM",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 13:51",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "DD26sz…US5q",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 13:51",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "6VLR78…fgS8",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 13:51",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "3wfDfQ…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 12:13",
+   "tw": false,
+   "x": 1.21
+  },
+  {
+   "ca": "0xbc22…a414",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 12:13",
+   "tw": true,
+   "x": 3.99
+  },
+  {
+   "ca": "0xf6da…96fd",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-08 12:13",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xdb93…bb74",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-08 10:58",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "CmCHvr…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "WINNER",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 10:58",
+   "tw": false,
+   "x": 2.01
+  },
+  {
+   "ca": "0xf6ab…94f6",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-08 10:58",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "9U1TqP…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-08 10:49",
+   "tw": true,
+   "x": 1.0
+  },
+  {
+   "ca": "Awck7w…moon",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 19:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "HaQdrX…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 19:34",
+   "tw": true,
+   "x": 1.43
+  },
+  {
+   "ca": "0xeaff…269c",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 19:07",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "HXqxTw…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 18:30",
+   "tw": false,
+   "x": 1.27
+  },
+  {
+   "ca": "0x4b01…405a",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 18:30",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xc53b…c1f0",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 17:36",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xb3f1…8d4c",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 16:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x5a08…88c8",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 16:34",
+   "tw": null,
+   "x": 0.98
+  },
+  {
+   "ca": "WPFQpv…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 15:34",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "6VLPHF…JfwP",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 15:05",
+   "tw": false,
+   "x": 1.48
+  },
+  {
+   "ca": "45VHsi…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 14:01",
+   "tw": null,
+   "x": 1.85
+  },
+  {
+   "ca": "GNzPer…DzQG",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 14:01",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "B6jPwS…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 14:01",
+   "tw": false,
+   "x": 1.63
+  },
+  {
+   "ca": "0x7043…7777",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 13:33",
+   "tw": false,
+   "x": 0.71
+  },
+  {
+   "ca": "0xdc45…7777",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 13:33",
+   "tw": true,
+   "x": 1.27
+  },
+  {
+   "ca": "NTX27F…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 13:33",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "0x8cc9…5836",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 13:33",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x1bef…58b5",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 12:33",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xbc7c…4778",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 12:01",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "9Bgjx6…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 11:35",
+   "tw": true,
+   "x": 0.96
+  },
+  {
+   "ca": "0x5b2e…7777",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 11:35",
+   "tw": true,
+   "x": 0.93
+  },
+  {
+   "ca": "0x8b1d…dfb9",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 11:35",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "4dwmQN…HwPM",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 10:41",
+   "tw": true,
+   "x": 1.46
+  },
+  {
+   "ca": "0xc079…7b97",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 10:04",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x806b…ed10",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 10:04",
+   "tw": false,
+   "x": 1.49
+  },
+  {
+   "ca": "0x806b…ed10",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 10:04",
+   "tw": null,
+   "x": 1.49
+  },
+  {
+   "ca": "0xaab3…2702",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 09:41",
+   "tw": true,
+   "x": 1.05
+  },
+  {
+   "ca": "0xe545…d793",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 09:41",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "2j5SaS…W2ZM",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 09:07",
+   "tw": true,
+   "x": 0.72
+  },
+  {
+   "ca": "0x5407…ec6b",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 09:07",
+   "tw": true,
+   "x": 1.58
+  },
+  {
+   "ca": "0x6624…7777",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 08:40",
+   "tw": true,
+   "x": 0.71
+  },
+  {
+   "ca": "CioPfv…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 08:40",
+   "tw": true,
+   "x": 1.6
+  },
+  {
+   "ca": "F6DPzj…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 08:40",
+   "tw": false,
+   "x": 1.62
+  },
+  {
+   "ca": "D3q3Tp…jeJb",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 08:40",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "BMMfqc…9Scm",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-07 08:40",
+   "tw": true,
+   "x": 2.33
+  },
+  {
+   "ca": "0xc4eb…cb97",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-07 08:40",
+   "tw": null,
+   "x": 31.1
+  },
+  {
+   "ca": "HMYd9t…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": null,
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 21:04",
+   "tw": true,
+   "x": 0.93
+  },
+  {
+   "ca": "0xc9a2…3569",
+   "chain": "robinhood",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 20:32",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xa91c…81bd",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": null,
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 20:32",
+   "tw": null,
+   "x": 1.5
+  },
+  {
+   "ca": "0xd380…9a92",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": null,
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 20:32",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x109b…391f",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 19:34",
+   "tw": true,
+   "x": 0.86
+  },
+  {
+   "ca": "0xd513…76a0",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 19:34",
+   "tw": true,
+   "x": 1.03
+  },
+  {
+   "ca": "0x2798…8ed0",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 19:04",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "MinAfs…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 18:01",
+   "tw": true,
+   "x": 1.1
+  },
+  {
+   "ca": "GfBwZA…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "FADED",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 18:01",
+   "tw": false,
+   "x": 0.78
+  },
+  {
+   "ca": "45VHsi…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 17:29",
+   "tw": false,
+   "x": 2.97
+  },
+  {
+   "ca": "31GxdQ…WsaE",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 16:59",
+   "tw": false,
+   "x": 0.99
+  },
+  {
+   "ca": "0x4927…0e90",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 16:59",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xbce8…f6a2",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 16:31",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "5sLHWD…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 15:32",
+   "tw": false,
+   "x": 0.69
+  },
+  {
+   "ca": "0x9a4b…9b76",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 15:32",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "HzYCHq…MZQy",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 14:59",
+   "tw": true,
+   "x": 3.16
+  },
+  {
+   "ca": "J9qzFh…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 14:30",
+   "tw": false,
+   "x": 1.02
+  },
+  {
+   "ca": "hL6d7K…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 14:30",
+   "tw": true,
+   "x": 1.26
+  },
+  {
+   "ca": "0x470e…d2f7",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 14:30",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x7ffc…c019",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 14:30",
+   "tw": null,
+   "x": 1.67
+  },
+  {
+   "ca": "FyJkcA…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 14:02",
+   "tw": true,
+   "x": 1.58
+  },
+  {
+   "ca": "BZ8pkW…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 14:02",
+   "tw": true,
+   "x": 1.4
+  },
+  {
+   "ca": "0x5d1f…8be3",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 13:33",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "2BVfJ4…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 13:06",
+   "tw": true,
+   "x": 37.04
+  },
+  {
+   "ca": "FAopSo…pump",
+   "chain": "solana",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 13:06",
+   "tw": true,
+   "x": 3.44
+  },
+  {
+   "ca": "0x7129…f4ae",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 13:06",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x614c…bb26",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 12:02",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x3e6d…3c30",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 11:38",
+   "tw": null,
+   "x": 0.45
+  },
+  {
+   "ca": "0x3407…3e53",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 11:38",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xcb82…204e",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 11:09",
+   "tw": false,
+   "x": 1.79
+  },
+  {
+   "ca": "0xad01…957b",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 10:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "D8GnQA…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 10:07",
+   "tw": true,
+   "x": 1.09
+  },
+  {
+   "ca": "0xe183…74de",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 10:07",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x4bb8…06b9",
+   "chain": "robinhood",
+   "last": "WINNER",
+   "o": {
+    "1h": "WINNER",
+    "24h": "WINNER",
+    "6h": "WINNER"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 10:07",
+   "tw": null,
+   "x": 5.67
+  },
+  {
+   "ca": "25SQpF…UqEM",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 09:37",
+   "tw": null,
+   "x": 1.15
+  },
+  {
+   "ca": "BaqDcV…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 09:37",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "GyWkSn…Vegn",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 09:37",
+   "tw": true,
+   "x": 0.88
+  },
+  {
+   "ca": "0x04eb…7960",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 09:37",
+   "tw": null,
+   "x": 1.22
+  },
+  {
+   "ca": "0x111c…aff7",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 09:37",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x6228…7777",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 09:10",
+   "tw": false,
+   "x": 1.0
+  },
+  {
+   "ca": "8cp1Wh…bQyZ",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 09:10",
+   "tw": true,
+   "x": 0.75
+  },
+  {
+   "ca": "Cuz4Am…s66a",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 09:10",
+   "tw": false,
+   "x": 1.76
+  },
+  {
+   "ca": "0x2561…310a",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 09:10",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "FeAWY9…zWVa",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-06 08:40",
+   "tw": true,
+   "x": 1.62
+  },
+  {
+   "ca": "0xe725…536c",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-06 08:40",
+   "tw": null,
+   "x": 1.0
+  },
+  {
+   "ca": "oJasFB…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 20:05",
+   "tw": true,
+   "x": 1.04
+  },
+  {
+   "ca": "CBcjQN…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 20:05",
+   "tw": true,
+   "x": 1.08
+  },
+  {
+   "ca": "0x0088…49d1",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 20:05",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x9c0e…a2b8",
+   "chain": "bsc",
+   "last": "WINNER",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "WINNER",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 19:27",
+   "tw": false,
+   "x": 22.94
+  },
+  {
+   "ca": "fhXqm9…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 18:31",
+   "tw": true,
+   "x": 1.17
+  },
+  {
+   "ca": "BJUiNo…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 17:33",
+   "tw": true,
+   "x": 0.79
+  },
+  {
+   "ca": "0xedae…64ab",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 17:33",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "HkJgBT…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 17:04",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "0xea88…8ee4",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 17:04",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "5hyoTM…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 16:28",
+   "tw": false,
+   "x": 1.11
+  },
+  {
+   "ca": "0xd994…c21a",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 15:32",
+   "tw": null,
+   "x": 1.07
+  },
+  {
+   "ca": "AsyWkg…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 15:32",
+   "tw": false,
+   "x": 1.12
+  },
+  {
+   "ca": "GKboyz…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 15:32",
+   "tw": true,
+   "x": 1.79
+  },
+  {
+   "ca": "Ek8kYU…jVW9",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "FADED",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 14:06",
+   "tw": null,
+   "x": 0.28
+  },
+  {
+   "ca": "CBRSFB…w4Fi",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 13:34",
+   "tw": false,
+   "x": 1.0
+  },
+  {
+   "ca": "C4ru2Y…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 13:34",
+   "tw": true,
+   "x": 0.8
+  },
+  {
+   "ca": "0x4c42…a9fc",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 13:34",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "88px59…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 11:59",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "Cm8ax9…QUQz",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 11:31",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0x3e00…7777",
+   "chain": "bsc",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 11:31",
+   "tw": true,
+   "x": 1.53
+  },
+  {
+   "ca": "CEYc86…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 11:31",
+   "tw": false,
+   "x": 1.51
+  },
+  {
+   "ca": "0x77d3…8aa7",
+   "chain": "robinhood",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "WINNER",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 11:31",
+   "tw": null,
+   "x": 4.36
+  },
+  {
+   "ca": "0xb3c1…8a19",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 10:42",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xc5ba…7777",
+   "chain": "bsc",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 10:09",
+   "tw": true,
+   "x": 0.92
+  },
+  {
+   "ca": "CBLx6C…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:40",
+   "tw": true,
+   "x": 1.06
+  },
+  {
+   "ca": "26Zixe…pump",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:40",
+   "tw": true,
+   "x": 0.28
+  },
+  {
+   "ca": "GSRkwg…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:08",
+   "tw": false,
+   "x": null
+  },
+  {
+   "ca": "9XKzy4…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:08",
+   "tw": true,
+   "x": 1.89
+  },
+  {
+   "ca": "EWZzCk…zDxJ",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:08",
+   "tw": false,
+   "x": 1.0
+  },
+  {
+   "ca": "0x4590…7777",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 09:08",
+   "tw": true,
+   "x": 1.0
+  },
+  {
+   "ca": "0x5391…8393",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 09:08",
+   "tw": null,
+   "x": 0.12
+  },
+  {
+   "ca": "0xbd0e…d3e4",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 09:08",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "0xedf9…f487",
+   "chain": "robinhood",
+   "last": "FADED",
+   "o": {
+    "1h": "FADED",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 09:08",
+   "tw": null,
+   "x": 0.12
+  },
+  {
+   "ca": "Aqv8Gj…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 1.29
+  },
+  {
+   "ca": "8nKp4J…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": false,
+   "x": 0.83
+  },
+  {
+   "ca": "GYFLuE…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 0.96
+  },
+  {
+   "ca": "BxZacB…wGU9",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 0.73
+  },
+  {
+   "ca": "Gzmg8q…htzT",
+   "chain": "solana",
+   "last": "FADED",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "FADED",
+    "6h": "FADED"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 1.07
+  },
+  {
+   "ca": "HKKv83…6Vfz",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 0.74
+  },
+  {
+   "ca": "6fbJo6…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": false,
+   "x": 1.19
+  },
+  {
+   "ca": "HXfA7T…Be3M",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 08:36",
+   "tw": null,
+   "x": null
+  },
+  {
+   "ca": "9YNBVS…pump",
+   "chain": "solana",
+   "last": "SURVIVOR",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "SURVIVOR",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": false,
+   "x": 1.55
+  },
+  {
+   "ca": "3cFGx2…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": false,
+   "x": 1.14
+  },
+  {
+   "ca": "oheuoM…pump",
+   "chain": "solana",
+   "last": "RUG",
+   "o": {
+    "1h": "SURVIVOR",
+    "24h": "RUG",
+    "6h": "SURVIVOR"
+   },
+   "rule": "P",
+   "s": "IS",
+   "t": "2026-10-05 08:36",
+   "tw": true,
+   "x": 1.09
+  },
+  {
+   "ca": "0x9ea1…b8a6",
+   "chain": "bsc",
+   "last": "RUG",
+   "o": {
+    "1h": "RUG",
+    "24h": "RUG",
+    "6h": "RUG"
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-05 08:36",
+   "tw": null,
+   "x": null
+  }
+ ],
+ "hits_clean": 308,
+ "hits_excluded": 112,
+ "hits_total": 420,
+ "last_hit_pt": "Oct 13, 2026 5:34 PM PT",
+ "last_scan_pt": "Oct 13, 2026 6:44 PM PT",
+ "oos": {
+  "first_pt": "Oct 9, 2026 10:16 AM PT",
+  "last_is_pt": "Oct 9, 2026 9:54 AM PT",
+  "n_P_oos": 81
+ },
+ "p_by_day": {
+  "2026-10-05": {
+   "FADED": 4,
+   "RUG": 15,
+   "SURVIVOR": 11,
+   "WINNER": 1,
+   "pending": 0
+  },
+  "2026-10-06": {
+   "FADED": 6,
+   "RUG": 4,
+   "SURVIVOR": 9,
+   "WINNER": 4,
+   "pending": 0
+  },
+  "2026-10-07": {
+   "FADED": 5,
+   "RUG": 7,
+   "SURVIVOR": 8,
+   "WINNER": 1,
+   "pending": 0
+  },
+  "2026-10-08": {
+   "FADED": 2,
+   "RUG": 9,
+   "SURVIVOR": 4,
+   "WINNER": 2,
+   "pending": 0
+  },
+  "2026-10-09": {
+   "FADED": 2,
+   "RUG": 8,
+   "SURVIVOR": 8,
+   "WINNER": 0,
+   "pending": 0
+  },
+  "2026-10-10": {
+   "FADED": 3,
+   "RUG": 9,
+   "SURVIVOR": 9,
+   "WINNER": 1,
+   "pending": 0
+  },
+  "2026-10-11": {
+   "FADED": 2,
+   "RUG": 9,
+   "SURVIVOR": 2,
+   "WINNER": 1,
+   "pending": 0
+  },
+  "2026-10-12": {
+   "FADED": 7,
+   "RUG": 9,
+   "SURVIVOR": 5,
+   "WINNER": 1,
+   "pending": 0
+  },
+  "2026-10-13": {
+   "FADED": 1,
+   "RUG": 4,
+   "SURVIVOR": 3,
+   "WINNER": 0,
+   "pending": 0
+  }
+ },
+ "scans": 211,
+ "site": {
+  "name": "New LP Desk",
+  "title": "New LP Desk: Paper Track Record"
+ },
+ "tweaks": {
+  "min_pool_age_min": 60,
+  "min_sell_share_h24": 0.35
+ },
+ "updated_iso": "2026-10-13T18:44:00-07:00",
+ "updated_pt": "Oct 13, 2026 6:44 PM PT"
+}
