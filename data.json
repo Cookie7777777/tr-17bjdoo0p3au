@@ -1,12 +1,12 @@
 {
  "by_rule_total": {
-  "P": 339,
+  "P": 341,
   "V": 167
  },
  "chains": {
   "bsc": 109,
   "robinhood": 84,
-  "solana": 183
+  "solana": 185
  },
  "days_covered": 11,
  "desk": {
@@ -268,14 +268,14 @@
     197.9402
    ],
    [
-    1792100112,
+    1792106836,
     197.9402
    ]
   ],
   "entry_fees_closed": 2.86,
   "equity": 197.94,
   "first_pt": "Sep 23, 2026 7:44 PM PT",
-  "last_mark_pt": "Oct 15, 2026 2:35 PM PT",
+  "last_mark_pt": "Oct 15, 2026 4:27 PM PT",
   "lp_scanner_trades": 0,
   "max_dd_at": "Oct 7, 2026 6:44 AM PT",
   "max_dd_pct": 2.8,
@@ -1498,7 +1498,7 @@
     },
     "faded_pct": 16.746,
     "labeled": 209,
-    "pending": 3,
+    "pending": 5,
     "rug_ci": [
      38.4,
      51.8
@@ -1513,7 +1513,7 @@
     "sw_pct": 38.278,
     "win_pct": 6.699
    },
-   "n": 212
+   "n": 214
   },
   "PT_is": {
    "horizons": {
@@ -1694,7 +1694,7 @@
     },
     "faded_pct": 28.0,
     "labeled": 50,
-    "pending": 0,
+    "pending": 1,
     "rug_ci": [
      19.1,
      43.8
@@ -1709,7 +1709,7 @@
     "sw_pct": 42.0,
     "win_pct": 4.0
    },
-   "n": 50
+   "n": 51
   },
   "PT_oos_fail": {
    "horizons": {
@@ -1792,7 +1792,7 @@
     },
     "faded_pct": 4.688,
     "labeled": 64,
-    "pending": 3,
+    "pending": 4,
     "rug_ci": [
      56.6,
      78.8
@@ -1807,7 +1807,7 @@
     "sw_pct": 26.562,
     "win_pct": 6.25
    },
-   "n": 67
+   "n": 68
   },
   "P_is": {
    "horizons": {
@@ -1988,7 +1988,7 @@
     },
     "faded_pct": 14.912,
     "labeled": 114,
-    "pending": 3,
+    "pending": 5,
     "rug_ci": [
      42.7,
      60.7
@@ -2003,7 +2003,7 @@
     "sw_pct": 33.333,
     "win_pct": 5.263
    },
-   "n": 117
+   "n": 119
   },
   "V": {
    "horizons": {
@@ -2033,25 +2033,25 @@
     "24h": {
      "counts": {
       "FADED": 17,
-      "RUG": 111,
+      "RUG": 112,
       "SURVIVOR": 18,
       "WINNER": 8
      },
-     "faded_pct": 11.039,
-     "labeled": 154,
+     "faded_pct": 10.968,
+     "labeled": 155,
      "rug_ci": [
-      64.5,
-      78.6
+      64.7,
+      78.7
      ],
-     "rug_pct": 72.078,
-     "surv_pct": 11.688,
+     "rug_pct": 72.258,
+     "surv_pct": 11.613,
      "sw": 26,
      "sw_ci": [
-      11.8,
-      23.6
+      11.7,
+      23.4
      ],
-     "sw_pct": 16.883,
-     "win_pct": 5.195
+     "sw_pct": 16.774,
+     "win_pct": 5.161
     },
     "6h": {
      "counts": {
@@ -2105,6 +2105,36 @@
   }
  },
  "hits": [
+  {
+   "ca": "4ezvQP…pump",
+   "chain": "solana",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-15 16:32",
+   "tw": true,
+   "x": null
+  },
+  {
+   "ca": "qbh8RR…pump",
+   "chain": "solana",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-15 16:32",
+   "tw": false,
+   "x": null
+  },
   {
    "ca": "GmRZNK…pump",
    "chain": "solana",
@@ -2456,7 +2486,7 @@
    "last": "RUG",
    "o": {
     "1h": "RUG",
-    "24h": null,
+    "24h": "RUG",
     "6h": null
    },
    "rule": "V",
@@ -7746,15 +7776,15 @@
    "x": null
   }
  ],
- "hits_clean": 376,
+ "hits_clean": 378,
  "hits_excluded": 130,
- "hits_total": 506,
- "last_hit_pt": "Oct 15, 2026 4:05 PM PT",
- "last_scan_pt": "Oct 15, 2026 4:05 PM PT",
+ "hits_total": 508,
+ "last_hit_pt": "Oct 15, 2026 4:32 PM PT",
+ "last_scan_pt": "Oct 15, 2026 4:32 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
-  "n_P_oos": 117
+  "n_P_oos": 119
  },
  "p_by_day": {
   "2026-10-05": {
@@ -7832,10 +7862,10 @@
    "RUG": 1,
    "SURVIVOR": 7,
    "WINNER": 1,
-   "pending": 1
+   "pending": 3
   }
  },
- "scans": 258,
+ "scans": 259,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -7844,6 +7874,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-15T16:05:00-07:00",
- "updated_pt": "Oct 15, 2026 4:05 PM PT"
+ "updated_iso": "2026-10-15T16:32:00-07:00",
+ "updated_pt": "Oct 15, 2026 4:32 PM PT"
 }
