@@ -1,10 +1,10 @@
 {
  "by_rule_total": {
   "P": 329,
-  "V": 163
+  "V": 164
  },
  "chains": {
-  "bsc": 107,
+  "bsc": 108,
   "robinhood": 81,
   "solana": 176
  },
@@ -268,14 +268,14 @@
     197.9402
    ],
    [
-    1792092705,
+    1792093051,
     197.9402
    ]
   ],
   "entry_fees_closed": 2.86,
   "equity": 197.94,
   "first_pt": "Sep 23, 2026 7:44 PM PT",
-  "last_mark_pt": "Oct 15, 2026 12:31 PM PT",
+  "last_mark_pt": "Oct 15, 2026 12:37 PM PT",
   "lp_scanner_trades": 0,
   "max_dd_at": "Oct 7, 2026 6:44 AM PT",
   "max_dd_pct": 2.8,
@@ -2019,25 +2019,25 @@
     "24h": {
      "counts": {
       "FADED": 16,
-      "RUG": 107,
+      "RUG": 108,
       "SURVIVOR": 18,
       "WINNER": 7
      },
-     "faded_pct": 10.811,
-     "labeled": 148,
+     "faded_pct": 10.738,
+     "labeled": 149,
      "rug_ci": [
-      64.6,
-      78.9
+      64.8,
+      79.0
      ],
-     "rug_pct": 72.297,
-     "surv_pct": 12.162,
+     "rug_pct": 72.483,
+     "surv_pct": 12.081,
      "sw": 25,
      "sw_ci": [
-      11.7,
-      23.7
+      11.6,
+      23.6
      ],
-     "sw_pct": 16.892,
-     "win_pct": 4.73
+     "sw_pct": 16.779,
+     "win_pct": 4.698
     },
     "6h": {
      "counts": {
@@ -2072,7 +2072,7 @@
     },
     "faded_pct": 10.063,
     "labeled": 159,
-    "pending": 1,
+    "pending": 2,
     "rug_ci": [
      64.9,
      78.7
@@ -2087,10 +2087,25 @@
     "sw_pct": 17.61,
     "win_pct": 5.031
    },
-   "n": 160
+   "n": 161
   }
  },
  "hits": [
+  {
+   "ca": "0x1691…d040",
+   "chain": "bsc",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "V",
+   "s": null,
+   "t": "2026-10-15 12:59",
+   "tw": null,
+   "x": null
+  },
   {
    "ca": "FYFDLq…HC8W",
    "chain": "solana",
@@ -2367,7 +2382,7 @@
    "last": "RUG",
    "o": {
     "1h": "RUG",
-    "24h": null,
+    "24h": "RUG",
     "6h": null
    },
    "rule": "V",
@@ -7552,11 +7567,11 @@
    "x": null
   }
  ],
- "hits_clean": 364,
+ "hits_clean": 365,
  "hits_excluded": 128,
- "hits_total": 492,
- "last_hit_pt": "Oct 15, 2026 11:28 AM PT",
- "last_scan_pt": "Oct 15, 2026 12:32 PM PT",
+ "hits_total": 493,
+ "last_hit_pt": "Oct 15, 2026 12:59 PM PT",
+ "last_scan_pt": "Oct 15, 2026 12:59 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -7641,7 +7656,7 @@
    "pending": 0
   }
  },
- "scans": 251,
+ "scans": 252,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -7650,6 +7665,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-15T12:32:00-07:00",
- "updated_pt": "Oct 15, 2026 12:32 PM PT"
+ "updated_iso": "2026-10-15T12:59:00-07:00",
+ "updated_pt": "Oct 15, 2026 12:59 PM PT"
 }
