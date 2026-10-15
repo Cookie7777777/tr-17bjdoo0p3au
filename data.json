@@ -1975,25 +1975,25 @@
     "1h": {
      "counts": {
       "FADED": 14,
-      "RUG": 84,
+      "RUG": 85,
       "SURVIVOR": 30,
       "WINNER": 12
      },
-     "faded_pct": 10.0,
-     "labeled": 140,
+     "faded_pct": 9.929,
+     "labeled": 141,
      "rug_ci": [
-      51.7,
-      67.7
+      52.0,
+      68.0
      ],
-     "rug_pct": 60.0,
-     "surv_pct": 21.429,
+     "rug_pct": 60.284,
+     "surv_pct": 21.277,
      "sw": 42,
      "sw_ci": [
-      23.0,
-      38.0
+      22.9,
+      37.8
      ],
-     "sw_pct": 30.0,
-     "win_pct": 8.571
+     "sw_pct": 29.787,
+     "win_pct": 8.511
     },
     "24h": {
      "counts": {
@@ -2045,26 +2045,26 @@
    "latest": {
     "counts": {
      "FADED": 18,
-     "RUG": 104,
+     "RUG": 105,
      "SURVIVOR": 22,
      "WINNER": 7
     },
-    "faded_pct": 11.921,
-    "labeled": 151,
-    "pending": 2,
+    "faded_pct": 11.842,
+    "labeled": 152,
+    "pending": 1,
     "rug_ci": [
-     61.1,
-     75.7
+     61.3,
+     75.9
     ],
-    "rug_pct": 68.874,
-    "surv_pct": 14.57,
+    "rug_pct": 69.079,
+    "surv_pct": 14.474,
     "sw": 29,
     "sw_ci": [
-     13.7,
-     26.2
+     13.6,
+     26.1
     ],
-    "sw_pct": 19.205,
-    "win_pct": 4.636
+    "sw_pct": 19.079,
+    "win_pct": 4.605
    },
    "n": 153
   }
@@ -2103,9 +2103,9 @@
   {
    "ca": "0xf0e3…300e",
    "chain": "bsc",
-   "last": null,
+   "last": "RUG",
    "o": {
-    "1h": null,
+    "1h": "RUG",
     "24h": null,
     "6h": null
    },
@@ -7340,7 +7340,7 @@
  "hits_excluded": 125,
  "hits_total": 476,
  "last_hit_pt": "Oct 14, 2026 6:01 PM PT",
- "last_scan_pt": "Oct 14, 2026 6:01 PM PT",
+ "last_scan_pt": "Oct 14, 2026 6:28 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -7418,7 +7418,7 @@
    "pending": 1
   }
  },
- "scans": 236,
+ "scans": 237,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -7427,6 +7427,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-14T18:01:00-07:00",
- "updated_pt": "Oct 14, 2026 6:01 PM PT"
+ "updated_iso": "2026-10-14T18:28:00-07:00",
+ "updated_pt": "Oct 14, 2026 6:28 PM PT"
 }
