@@ -268,14 +268,14 @@
     197.9402
    ],
    [
-    1792114635,
+    1792121383,
     197.9402
    ]
   ],
   "entry_fees_closed": 2.86,
   "equity": 197.94,
   "first_pt": "Sep 23, 2026 7:44 PM PT",
-  "last_mark_pt": "Oct 15, 2026 6:37 PM PT",
+  "last_mark_pt": "Oct 15, 2026 8:29 PM PT",
   "lp_scanner_trades": 0,
   "max_dd_at": "Oct 7, 2026 6:44 AM PT",
   "max_dd_pct": 2.8,
@@ -7840,7 +7840,7 @@
  "hits_excluded": 130,
  "hits_total": 512,
  "last_hit_pt": "Oct 15, 2026 7:01 PM PT",
- "last_scan_pt": "Oct 15, 2026 7:58 PM PT",
+ "last_scan_pt": "Oct 15, 2026 8:33 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -7925,7 +7925,7 @@
    "pending": 0
   }
  },
- "scans": 266,
+ "scans": 267,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -7934,6 +7934,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-15T19:58:00-07:00",
- "updated_pt": "Oct 15, 2026 7:58 PM PT"
+ "updated_iso": "2026-10-15T20:33:00-07:00",
+ "updated_pt": "Oct 15, 2026 8:33 PM PT"
 }
