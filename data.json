@@ -1,6 +1,6 @@
 {
  "by_rule_total": {
-  "P": 363,
+  "P": 364,
   "V": 168
  },
  "chains": {
@@ -268,14 +268,14 @@
     197.9402
    ],
    [
-    1792165080,
+    1792171939,
     197.9402
    ]
   ],
   "entry_fees_closed": 2.86,
   "equity": 197.94,
   "first_pt": "Sep 23, 2026 7:44 PM PT",
-  "last_mark_pt": "Oct 16, 2026 8:38 AM PT",
+  "last_mark_pt": "Oct 16, 2026 10:32 AM PT",
   "lp_scanner_trades": 0,
   "max_dd_at": "Oct 7, 2026 6:44 AM PT",
   "max_dd_pct": 2.8,
@@ -482,7 +482,7 @@
     "V": 0
    },
    "fake_lp": {
-    "P": 86,
+    "P": 87,
     "V": 0
    },
    "major": {
@@ -503,6 +503,13 @@
    }
   },
   "rows": [
+   {
+    "ca": "DPcz93…pbBE",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 10:31"
+   },
    {
     "ca": "0x983a…9632",
     "cat": "stablecoin",
@@ -1526,26 +1533,26 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 16,
+      "FADED": 17,
       "RUG": 43,
       "SURVIVOR": 142,
       "WINNER": 5
      },
-     "faded_pct": 7.767,
-     "labeled": 206,
+     "faded_pct": 8.213,
+     "labeled": 207,
      "rug_ci": [
-      15.9,
-      26.9
+      15.8,
+      26.8
      ],
-     "rug_pct": 20.874,
-     "surv_pct": 68.932,
+     "rug_pct": 20.773,
+     "surv_pct": 68.599,
      "sw": 147,
      "sw_ci": [
-      64.8,
-      77.1
+      64.5,
+      76.8
      ],
-     "sw_pct": 71.359,
-     "win_pct": 2.427
+     "sw_pct": 71.014,
+     "win_pct": 2.415
     },
     "24h": {
      "counts": {
@@ -1596,27 +1603,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 36,
+     "FADED": 37,
      "RUG": 100,
      "SURVIVOR": 70,
      "WINNER": 14
     },
-    "faded_pct": 16.364,
-    "labeled": 220,
-    "pending": 1,
+    "faded_pct": 16.742,
+    "labeled": 221,
+    "pending": 0,
     "rug_ci": [
-     39.0,
-     52.1
+     38.8,
+     51.8
     ],
-    "rug_pct": 45.455,
-    "surv_pct": 31.818,
+    "rug_pct": 45.249,
+    "surv_pct": 31.674,
     "sw": 84,
     "sw_ci": [
-     32.0,
-     44.8
+     31.9,
+     44.6
     ],
-    "sw_pct": 38.182,
-    "win_pct": 6.364
+    "sw_pct": 38.009,
+    "win_pct": 6.335
    },
    "n": 221
   },
@@ -1820,25 +1827,25 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 2,
+      "FADED": 3,
       "RUG": 26,
       "SURVIVOR": 37,
       "WINNER": 0
      },
-     "faded_pct": 3.077,
-     "labeled": 65,
+     "faded_pct": 4.545,
+     "labeled": 66,
      "rug_ci": [
-      29.0,
-      52.1
+      28.5,
+      51.5
      ],
-     "rug_pct": 40.0,
-     "surv_pct": 56.923,
+     "rug_pct": 39.394,
+     "surv_pct": 56.061,
      "sw": 37,
      "sw_ci": [
-      44.8,
-      68.2
+      44.1,
+      67.4
      ],
-     "sw_pct": 56.923,
+     "sw_pct": 56.061,
      "win_pct": 0.0
     },
     "24h": {
@@ -1890,27 +1897,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 4,
+     "FADED": 5,
      "RUG": 49,
      "SURVIVOR": 13,
      "WINNER": 4
     },
-    "faded_pct": 5.714,
-    "labeled": 70,
-    "pending": 1,
+    "faded_pct": 7.042,
+    "labeled": 71,
+    "pending": 0,
     "rug_ci": [
-     58.5,
-     79.5
+     57.5,
+     78.6
     ],
-    "rug_pct": 70.0,
-    "surv_pct": 18.571,
+    "rug_pct": 69.014,
+    "surv_pct": 18.31,
     "sw": 17,
     "sw_ci": [
-     15.8,
-     35.5
+     15.5,
+     35.0
     ],
-    "sw_pct": 24.286,
-    "win_pct": 5.714
+    "sw_pct": 23.944,
+    "win_pct": 5.634
    },
    "n": 71
   },
@@ -2016,26 +2023,26 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 10,
+      "FADED": 11,
       "RUG": 30,
       "SURVIVOR": 78,
       "WINNER": 1
      },
-     "faded_pct": 8.403,
-     "labeled": 119,
+     "faded_pct": 9.167,
+     "labeled": 120,
      "rug_ci": [
-      18.3,
-      33.7
+      18.1,
+      33.4
      ],
-     "rug_pct": 25.21,
-     "surv_pct": 65.546,
+     "rug_pct": 25.0,
+     "surv_pct": 65.0,
      "sw": 79,
      "sw_ci": [
-      57.5,
-      74.2
+      57.0,
+      73.7
      ],
-     "sw_pct": 66.387,
-     "win_pct": 0.84
+     "sw_pct": 65.833,
+     "win_pct": 0.833
     },
     "24h": {
      "counts": {
@@ -2086,27 +2093,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 18,
+     "FADED": 19,
      "RUG": 65,
      "SURVIVOR": 36,
      "WINNER": 6
     },
-    "faded_pct": 14.4,
-    "labeled": 125,
-    "pending": 1,
+    "faded_pct": 15.079,
+    "labeled": 126,
+    "pending": 0,
     "rug_ci": [
-     43.3,
-     60.6
+     42.9,
+     60.1
     ],
-    "rug_pct": 52.0,
-    "surv_pct": 28.8,
+    "rug_pct": 51.587,
+    "surv_pct": 28.571,
     "sw": 42,
     "sw_ci": [
-     25.9,
-     42.3
+     25.7,
+     41.9
     ],
-    "sw_pct": 33.6,
-    "win_pct": 4.8
+    "sw_pct": 33.333,
+    "win_pct": 4.762
    },
    "n": 126
   },
@@ -2213,9 +2220,9 @@
   {
    "ca": "D61pTa…pump",
    "chain": "solana",
-   "last": null,
+   "last": "FADED",
    "o": {
-    "1h": null,
+    "1h": "FADED",
     "24h": null,
     "6h": null
    },
@@ -2223,7 +2230,7 @@
    "s": "OOS",
    "t": "2026-10-16 09:31",
    "tw": false,
-   "x": null
+   "x": 0.61
   },
   {
    "ca": "ALDVtr…sWdD",
@@ -8002,10 +8009,10 @@
   }
  ],
  "hits_clean": 386,
- "hits_excluded": 145,
- "hits_total": 531,
- "last_hit_pt": "Oct 16, 2026 10:06 AM PT",
- "last_scan_pt": "Oct 16, 2026 10:06 AM PT",
+ "hits_excluded": 146,
+ "hits_total": 532,
+ "last_hit_pt": "Oct 16, 2026 10:31 AM PT",
+ "last_scan_pt": "Oct 16, 2026 10:31 AM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -8090,14 +8097,14 @@
    "pending": 0
   },
   "2026-10-16": {
-   "FADED": 0,
+   "FADED": 1,
    "RUG": 0,
    "SURVIVOR": 3,
    "WINNER": 0,
-   "pending": 1
+   "pending": 0
   }
  },
- "scans": 272,
+ "scans": 273,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8106,6 +8113,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T10:06:00-07:00",
- "updated_pt": "Oct 16, 2026 10:06 AM PT"
+ "updated_iso": "2026-10-16T17:32:19+00:00",
+ "updated_pt": "Oct 16, 2026 10:32 AM PT"
 }
