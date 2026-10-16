@@ -1,12 +1,12 @@
 {
  "by_rule_total": {
-  "P": 352,
+  "P": 359,
   "V": 168
  },
  "chains": {
   "bsc": 112,
   "robinhood": 85,
-  "solana": 187
+  "solana": 188
  },
  "days_covered": 12,
  "desk": {
@@ -482,7 +482,7 @@
     "V": 0
    },
    "fake_lp": {
-    "P": 79,
+    "P": 84,
     "V": 0
    },
    "major": {
@@ -494,7 +494,7 @@
     "V": 1
    },
    "misread": {
-    "P": 26,
+    "P": 27,
     "V": 0
    },
    "stablecoin": {
@@ -503,6 +503,48 @@
    }
   },
   "rows": [
+   {
+    "ca": "J6WWvc…fp3f",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
+   {
+    "ca": "AZN5c4…gKr2",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
+   {
+    "ca": "46niEe…ABAc",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
+   {
+    "ca": "537szH…LC1h",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
+   {
+    "ca": "DRAXGS…jnZv",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
+   {
+    "ca": "0x9efc…b241",
+    "cat": "misread",
+    "chain": "robinhood",
+    "rule": "P",
+    "t": "2026-10-16 09:00"
+   },
    {
     "ca": "4Bp84V…tKNm",
     "cat": "fake_lp",
@@ -1540,7 +1582,7 @@
     },
     "faded_pct": 17.051,
     "labeled": 217,
-    "pending": 2,
+    "pending": 3,
     "rug_ci": [
      39.1,
      52.3
@@ -1555,7 +1597,7 @@
     "sw_pct": 37.327,
     "win_pct": 6.452
    },
-   "n": 219
+   "n": 220
   },
   "PT_is": {
    "horizons": {
@@ -1736,7 +1778,7 @@
     },
     "faded_pct": 28.302,
     "labeled": 53,
-    "pending": 1,
+    "pending": 2,
     "rug_ci": [
      18.0,
      41.6
@@ -1751,7 +1793,7 @@
     "sw_pct": 43.396,
     "win_pct": 3.774
    },
-   "n": 54
+   "n": 55
   },
   "PT_oos_fail": {
    "horizons": {
@@ -2030,7 +2072,7 @@
     },
     "faded_pct": 15.574,
     "labeled": 122,
-    "pending": 2,
+    "pending": 3,
     "rug_ci": [
      43.7,
      61.1
@@ -2045,7 +2087,7 @@
     "sw_pct": 31.967,
     "win_pct": 4.918
    },
-   "n": 124
+   "n": 125
   },
   "V": {
    "horizons": {
@@ -2075,25 +2117,25 @@
     "24h": {
      "counts": {
       "FADED": 17,
-      "RUG": 117,
+      "RUG": 118,
       "SURVIVOR": 18,
       "WINNER": 8
      },
-     "faded_pct": 10.625,
-     "labeled": 160,
+     "faded_pct": 10.559,
+     "labeled": 161,
      "rug_ci": [
-      65.8,
-      79.4
+      66.0,
+      79.5
      ],
-     "rug_pct": 73.125,
-     "surv_pct": 11.25,
+     "rug_pct": 73.292,
+     "surv_pct": 11.18,
      "sw": 26,
      "sw_ci": [
       11.3,
-      22.7
+      22.6
      ],
-     "sw_pct": 16.25,
-     "win_pct": 5.0
+     "sw_pct": 16.149,
+     "win_pct": 4.969
     },
     "6h": {
      "counts": {
@@ -2147,6 +2189,21 @@
   }
  },
  "hits": [
+  {
+   "ca": "ALDVtr…sWdD",
+   "chain": "solana",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-16 09:00",
+   "tw": true,
+   "x": null
+  },
   {
    "ca": "0x0772…9999",
    "chain": "bsc",
@@ -2438,7 +2495,7 @@
    "last": "RUG",
    "o": {
     "1h": "RUG",
-    "24h": null,
+    "24h": "RUG",
     "6h": "RUG"
    },
    "rule": "V",
@@ -7908,15 +7965,15 @@
    "x": null
   }
  ],
- "hits_clean": 384,
- "hits_excluded": 136,
- "hits_total": 520,
- "last_hit_pt": "Oct 16, 2026 8:35 AM PT",
- "last_scan_pt": "Oct 16, 2026 8:35 AM PT",
+ "hits_clean": 385,
+ "hits_excluded": 142,
+ "hits_total": 527,
+ "last_hit_pt": "Oct 16, 2026 9:00 AM PT",
+ "last_scan_pt": "Oct 16, 2026 9:00 AM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
-  "n_P_oos": 124
+  "n_P_oos": 125
  },
  "p_by_day": {
   "2026-10-05": {
@@ -8001,10 +8058,10 @@
    "RUG": 0,
    "SURVIVOR": 0,
    "WINNER": 0,
-   "pending": 2
+   "pending": 3
   }
  },
- "scans": 269,
+ "scans": 270,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8013,6 +8070,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T15:38:00+00:00",
- "updated_pt": "Oct 16, 2026 8:38 AM PT"
+ "updated_iso": "2026-10-16T09:00:00-07:00",
+ "updated_pt": "Oct 16, 2026 9:00 AM PT"
 }
