@@ -1540,26 +1540,26 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 17,
+      "FADED": 18,
       "RUG": 45,
       "SURVIVOR": 145,
       "WINNER": 5
      },
-     "faded_pct": 8.019,
-     "labeled": 212,
+     "faded_pct": 8.451,
+     "labeled": 213,
      "rug_ci": [
-      16.3,
-      27.2
+      16.2,
+      27.1
      ],
-     "rug_pct": 21.226,
-     "surv_pct": 68.396,
+     "rug_pct": 21.127,
+     "surv_pct": 68.075,
      "sw": 150,
      "sw_ci": [
-      64.3,
-      76.5
+      64.0,
+      76.1
      ],
-     "sw_pct": 70.755,
-     "win_pct": 2.358
+     "sw_pct": 70.423,
+     "win_pct": 2.347
     },
     "24h": {
      "counts": {
@@ -1610,27 +1610,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 39,
+     "FADED": 40,
      "RUG": 102,
      "SURVIVOR": 71,
      "WINNER": 14
     },
-    "faded_pct": 17.257,
-    "labeled": 226,
-    "pending": 3,
+    "faded_pct": 17.621,
+    "labeled": 227,
+    "pending": 2,
     "rug_ci": [
-     38.8,
-     51.6
+     38.6,
+     51.4
     ],
-    "rug_pct": 45.133,
-    "surv_pct": 31.416,
+    "rug_pct": 44.934,
+    "surv_pct": 31.278,
     "sw": 85,
     "sw_ci": [
-     31.6,
-     44.1
+     31.4,
+     43.9
     ],
-    "sw_pct": 37.611,
-    "win_pct": 6.195
+    "sw_pct": 37.445,
+    "win_pct": 6.167
    },
    "n": 229
   },
@@ -1736,26 +1736,26 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 8,
+      "FADED": 9,
       "RUG": 4,
       "SURVIVOR": 43,
       "WINNER": 1
      },
-     "faded_pct": 14.286,
-     "labeled": 56,
+     "faded_pct": 15.789,
+     "labeled": 57,
      "rug_ci": [
       2.8,
-      17.0
+      16.7
      ],
-     "rug_pct": 7.143,
-     "surv_pct": 76.786,
+     "rug_pct": 7.018,
+     "surv_pct": 75.439,
      "sw": 44,
      "sw_ci": [
-      66.2,
-      87.3
+      64.8,
+      86.2
      ],
-     "sw_pct": 78.571,
-     "win_pct": 1.786
+     "sw_pct": 77.193,
+     "win_pct": 1.754
     },
     "24h": {
      "counts": {
@@ -1806,27 +1806,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 16,
+     "FADED": 17,
      "RUG": 16,
      "SURVIVOR": 23,
      "WINNER": 2
     },
-    "faded_pct": 28.07,
-    "labeled": 57,
-    "pending": 2,
+    "faded_pct": 29.31,
+    "labeled": 58,
+    "pending": 1,
     "rug_ci": [
-     18.1,
-     40.8
+     17.8,
+     40.2
     ],
-    "rug_pct": 28.07,
-    "surv_pct": 40.351,
+    "rug_pct": 27.586,
+    "surv_pct": 39.655,
     "sw": 25,
     "sw_ci": [
-     31.8,
-     56.7
+     31.2,
+     55.9
     ],
-    "sw_pct": 43.86,
-    "win_pct": 3.509
+    "sw_pct": 43.103,
+    "win_pct": 3.448
    },
    "n": 59
   },
@@ -2030,26 +2030,26 @@
    "horizons": {
     "1h": {
      "counts": {
-      "FADED": 11,
+      "FADED": 12,
       "RUG": 32,
       "SURVIVOR": 81,
       "WINNER": 1
      },
-     "faded_pct": 8.8,
-     "labeled": 125,
+     "faded_pct": 9.524,
+     "labeled": 126,
      "rug_ci": [
-      18.8,
-      33.9
+      18.6,
+      33.6
      ],
-     "rug_pct": 25.6,
-     "surv_pct": 64.8,
+     "rug_pct": 25.397,
+     "surv_pct": 64.286,
      "sw": 82,
      "sw_ci": [
-      56.9,
-      73.4
+      56.4,
+      72.8
      ],
-     "sw_pct": 65.6,
-     "win_pct": 0.8
+     "sw_pct": 65.079,
+     "win_pct": 0.794
     },
     "24h": {
      "counts": {
@@ -2100,27 +2100,27 @@
    },
    "latest": {
     "counts": {
-     "FADED": 21,
+     "FADED": 22,
      "RUG": 67,
      "SURVIVOR": 37,
      "WINNER": 6
     },
-    "faded_pct": 16.031,
-    "labeled": 131,
-    "pending": 3,
+    "faded_pct": 16.667,
+    "labeled": 132,
+    "pending": 2,
     "rug_ci": [
-     42.7,
-     59.5
+     42.3,
+     59.1
     ],
-    "rug_pct": 51.145,
-    "surv_pct": 28.244,
+    "rug_pct": 50.758,
+    "surv_pct": 28.03,
     "sw": 43,
     "sw_ci": [
-     25.4,
-     41.3
+     25.2,
+     41.0
     ],
-    "sw_pct": 32.824,
-    "win_pct": 4.58
+    "sw_pct": 32.576,
+    "win_pct": 4.545
    },
    "n": 134
   },
@@ -2272,9 +2272,9 @@
   {
    "ca": "9KDhov…m9up",
    "chain": "solana",
-   "last": null,
+   "last": "FADED",
    "o": {
-    "1h": null,
+    "1h": "FADED",
     "24h": null,
     "6h": null
    },
@@ -2282,7 +2282,7 @@
    "s": "OOS",
    "t": "2026-10-16 13:01",
    "tw": true,
-   "x": null
+   "x": 0.67
   },
   {
    "ca": "5e8GPz…pump",
@@ -8169,7 +8169,7 @@
  "hits_excluded": 147,
  "hits_total": 543,
  "last_hit_pt": "Oct 16, 2026 1:36 PM PT",
- "last_scan_pt": "Oct 16, 2026 1:36 PM PT",
+ "last_scan_pt": "Oct 16, 2026 1:59 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -8254,14 +8254,14 @@
    "pending": 0
   },
   "2026-10-16": {
-   "FADED": 2,
+   "FADED": 3,
    "RUG": 2,
    "SURVIVOR": 5,
    "WINNER": 0,
-   "pending": 3
+   "pending": 2
   }
  },
- "scans": 279,
+ "scans": 280,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8270,6 +8270,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T13:36:00-07:00",
- "updated_pt": "Oct 16, 2026 1:36 PM PT"
+ "updated_iso": "2026-10-16T13:59:00-07:00",
+ "updated_pt": "Oct 16, 2026 1:59 PM PT"
 }
