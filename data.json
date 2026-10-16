@@ -8221,7 +8221,7 @@
  "hits_excluded": 148,
  "hits_total": 547,
  "last_hit_pt": "Oct 16, 2026 3:34 PM PT",
- "last_scan_pt": "Oct 16, 2026 3:34 PM PT",
+ "last_scan_pt": "Oct 16, 2026 3:36 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
@@ -8313,7 +8313,7 @@
    "pending": 2
   }
  },
- "scans": 283,
+ "scans": 284,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8322,6 +8322,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T15:34:00-07:00",
- "updated_pt": "Oct 16, 2026 3:34 PM PT"
+ "updated_iso": "2026-10-16T15:36:00-07:00",
+ "updated_pt": "Oct 16, 2026 3:36 PM PT"
 }
