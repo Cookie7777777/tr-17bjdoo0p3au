@@ -1,12 +1,12 @@
 {
  "by_rule_total": {
-  "P": 369,
+  "P": 371,
   "V": 169
  },
  "chains": {
   "bsc": 112,
   "robinhood": 86,
-  "solana": 194
+  "solana": 195
  },
  "days_covered": 12,
  "desk": {
@@ -268,14 +268,14 @@
     197.9402
    ],
    [
-    1792171939,
+    1792179561,
     197.9402
    ]
   ],
   "entry_fees_closed": 2.86,
   "equity": 197.94,
   "first_pt": "Sep 23, 2026 7:44 PM PT",
-  "last_mark_pt": "Oct 16, 2026 10:32 AM PT",
+  "last_mark_pt": "Oct 16, 2026 12:39 PM PT",
   "lp_scanner_trades": 0,
   "max_dd_at": "Oct 7, 2026 6:44 AM PT",
   "max_dd_pct": 2.8,
@@ -482,7 +482,7 @@
     "V": 0
    },
    "fake_lp": {
-    "P": 87,
+    "P": 88,
     "V": 0
    },
    "major": {
@@ -503,6 +503,13 @@
    }
   },
   "rows": [
+   {
+    "ca": "Gyexgb…zY6Y",
+    "cat": "fake_lp",
+    "chain": "solana",
+    "rule": "P",
+    "t": "2026-10-16 13:01"
+   },
    {
     "ca": "DPcz93…pbBE",
     "cat": "fake_lp",
@@ -1556,26 +1563,26 @@
     },
     "24h": {
      "counts": {
-      "FADED": 36,
-      "RUG": 98,
-      "SURVIVOR": 64,
+      "FADED": 37,
+      "RUG": 99,
+      "SURVIVOR": 65,
       "WINNER": 14
      },
-     "faded_pct": 16.981,
-     "labeled": 212,
+     "faded_pct": 17.209,
+     "labeled": 215,
      "rug_ci": [
-      39.6,
-      52.9
+      39.5,
+      52.7
      ],
-     "rug_pct": 46.226,
-     "surv_pct": 30.189,
-     "sw": 78,
+     "rug_pct": 46.047,
+     "surv_pct": 30.233,
+     "sw": 79,
      "sw_ci": [
       30.6,
-      43.5
+      43.4
      ],
-     "sw_pct": 36.792,
-     "win_pct": 6.604
+     "sw_pct": 36.744,
+     "win_pct": 6.512
     },
     "6h": {
      "counts": {
@@ -1603,29 +1610,29 @@
    },
    "latest": {
     "counts": {
-     "FADED": 37,
+     "FADED": 38,
      "RUG": 101,
-     "SURVIVOR": 72,
+     "SURVIVOR": 71,
      "WINNER": 14
     },
-    "faded_pct": 16.518,
+    "faded_pct": 16.964,
     "labeled": 224,
-    "pending": 2,
+    "pending": 3,
     "rug_ci": [
      38.7,
      51.6
     ],
     "rug_pct": 45.089,
-    "surv_pct": 32.143,
-    "sw": 86,
+    "surv_pct": 31.696,
+    "sw": 85,
     "sw_ci": [
-     32.3,
-     44.9
+     31.8,
+     44.5
     ],
-    "sw_pct": 38.393,
+    "sw_pct": 37.946,
     "win_pct": 6.25
    },
-   "n": 226
+   "n": 227
   },
   "PT_is": {
    "horizons": {
@@ -1752,26 +1759,26 @@
     },
     "24h": {
      "counts": {
-      "FADED": 14,
+      "FADED": 15,
       "RUG": 16,
-      "SURVIVOR": 18,
+      "SURVIVOR": 19,
       "WINNER": 2
      },
-     "faded_pct": 28.0,
-     "labeled": 50,
+     "faded_pct": 28.846,
+     "labeled": 52,
      "rug_ci": [
-      20.8,
-      45.8
+      19.9,
+      44.3
      ],
-     "rug_pct": 32.0,
-     "surv_pct": 36.0,
-     "sw": 20,
+     "rug_pct": 30.769,
+     "surv_pct": 36.538,
+     "sw": 21,
      "sw_ci": [
-      27.6,
-      53.8
+      28.2,
+      53.9
      ],
-     "sw_pct": 40.0,
-     "win_pct": 4.0
+     "sw_pct": 40.385,
+     "win_pct": 3.846
     },
     "6h": {
      "counts": {
@@ -1799,29 +1806,29 @@
    },
    "latest": {
     "counts": {
-     "FADED": 14,
+     "FADED": 15,
      "RUG": 16,
-     "SURVIVOR": 25,
+     "SURVIVOR": 24,
      "WINNER": 2
     },
-    "faded_pct": 24.561,
+    "faded_pct": 26.316,
     "labeled": 57,
-    "pending": 0,
+    "pending": 1,
     "rug_ci": [
      18.1,
      40.8
     ],
     "rug_pct": 28.07,
-    "surv_pct": 43.86,
-    "sw": 27,
+    "surv_pct": 42.105,
+    "sw": 26,
     "sw_ci": [
-     35.0,
-     60.1
+     33.4,
+     58.4
     ],
-    "sw_pct": 47.368,
+    "sw_pct": 45.614,
     "win_pct": 3.509
    },
-   "n": 57
+   "n": 58
   },
   "PT_oos_fail": {
    "horizons": {
@@ -1851,25 +1858,25 @@
     "24h": {
      "counts": {
       "FADED": 4,
-      "RUG": 47,
+      "RUG": 48,
       "SURVIVOR": 12,
       "WINNER": 4
      },
-     "faded_pct": 5.97,
-     "labeled": 67,
+     "faded_pct": 5.882,
+     "labeled": 68,
      "rug_ci": [
-      58.3,
-      79.8
+      58.9,
+      80.1
      ],
-     "rug_pct": 70.149,
-     "surv_pct": 17.91,
+     "rug_pct": 70.588,
+     "surv_pct": 17.647,
      "sw": 16,
      "sw_ci": [
-      15.3,
-      35.3
+      15.0,
+      34.9
      ],
-     "sw_pct": 23.881,
-     "win_pct": 5.97
+     "sw_pct": 23.529,
+     "win_pct": 5.882
     },
     "6h": {
      "counts": {
@@ -2046,26 +2053,26 @@
     },
     "24h": {
      "counts": {
-      "FADED": 18,
-      "RUG": 63,
-      "SURVIVOR": 30,
+      "FADED": 19,
+      "RUG": 64,
+      "SURVIVOR": 31,
       "WINNER": 6
      },
-     "faded_pct": 15.385,
-     "labeled": 117,
+     "faded_pct": 15.833,
+     "labeled": 120,
      "rug_ci": [
-      44.8,
-      62.6
+      44.4,
+      62.0
      ],
-     "rug_pct": 53.846,
-     "surv_pct": 25.641,
-     "sw": 36,
+     "rug_pct": 53.333,
+     "surv_pct": 25.833,
+     "sw": 37,
      "sw_ci": [
-      23.1,
+      23.3,
       39.6
      ],
-     "sw_pct": 30.769,
-     "win_pct": 5.128
+     "sw_pct": 30.833,
+     "win_pct": 5.0
     },
     "6h": {
      "counts": {
@@ -2093,29 +2100,29 @@
    },
    "latest": {
     "counts": {
-     "FADED": 19,
+     "FADED": 20,
      "RUG": 66,
-     "SURVIVOR": 38,
+     "SURVIVOR": 37,
      "WINNER": 6
     },
-    "faded_pct": 14.729,
+    "faded_pct": 15.504,
     "labeled": 129,
-    "pending": 2,
+    "pending": 3,
     "rug_ci": [
      42.6,
      59.6
     ],
     "rug_pct": 51.163,
-    "surv_pct": 29.457,
-    "sw": 44,
+    "surv_pct": 28.682,
+    "sw": 43,
     "sw_ci": [
-     26.5,
-     42.6
+     25.8,
+     41.8
     ],
-    "sw_pct": 34.109,
+    "sw_pct": 33.333,
     "win_pct": 4.651
    },
-   "n": 131
+   "n": 132
   },
   "V": {
    "horizons": {
@@ -2217,6 +2224,21 @@
   }
  },
  "hits": [
+  {
+   "ca": "9KDhov…m9up",
+   "chain": "solana",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-16 13:01",
+   "tw": true,
+   "x": null
+  },
   {
    "ca": "5e8GPz…pump",
    "chain": "solana",
@@ -2418,22 +2440,22 @@
    "last": "SURVIVOR",
    "o": {
     "1h": "SURVIVOR",
-    "24h": null,
+    "24h": "SURVIVOR",
     "6h": null
    },
    "rule": "P",
    "s": "OOS",
    "t": "2026-10-15 17:00",
    "tw": true,
-   "x": 1.0
+   "x": 1.84
   },
   {
    "ca": "4ezvQP…pump",
    "chain": "solana",
-   "last": "SURVIVOR",
+   "last": "FADED",
    "o": {
     "1h": "SURVIVOR",
-    "24h": null,
+    "24h": "FADED",
     "6h": null
    },
    "rule": "P",
@@ -2448,7 +2470,7 @@
    "last": "RUG",
    "o": {
     "1h": "RUG",
-    "24h": null,
+    "24h": "RUG",
     "6h": null
    },
    "rule": "P",
@@ -8098,15 +8120,15 @@
    "x": null
   }
  ],
- "hits_clean": 392,
- "hits_excluded": 146,
- "hits_total": 538,
- "last_hit_pt": "Oct 16, 2026 12:29 PM PT",
- "last_scan_pt": "Oct 16, 2026 12:29 PM PT",
+ "hits_clean": 393,
+ "hits_excluded": 147,
+ "hits_total": 540,
+ "last_hit_pt": "Oct 16, 2026 1:01 PM PT",
+ "last_scan_pt": "Oct 16, 2026 1:01 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
-  "n_P_oos": 131
+  "n_P_oos": 132
  },
  "p_by_day": {
   "2026-10-05": {
@@ -8180,9 +8202,9 @@
    "pending": 0
   },
   "2026-10-15": {
-   "FADED": 3,
+   "FADED": 4,
    "RUG": 5,
-   "SURVIVOR": 8,
+   "SURVIVOR": 7,
    "WINNER": 1,
    "pending": 0
   },
@@ -8191,10 +8213,10 @@
    "RUG": 1,
    "SURVIVOR": 5,
    "WINNER": 0,
-   "pending": 2
+   "pending": 3
   }
  },
- "scans": 277,
+ "scans": 278,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8203,6 +8225,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T12:29:00-07:00",
- "updated_pt": "Oct 16, 2026 12:29 PM PT"
+ "updated_iso": "2026-10-16T13:01:00-07:00",
+ "updated_pt": "Oct 16, 2026 1:01 PM PT"
 }
