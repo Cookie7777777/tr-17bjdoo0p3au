@@ -1,12 +1,12 @@
 {
  "by_rule_total": {
-  "P": 391,
+  "P": 392,
   "V": 174
  },
  "chains": {
   "bsc": 115,
   "robinhood": 87,
-  "solana": 206
+  "solana": 207
  },
  "days_covered": 12,
  "desk": {
@@ -1687,7 +1687,7 @@
     },
     "faded_pct": 17.373,
     "labeled": 236,
-    "pending": 1,
+    "pending": 2,
     "rug_ci": [
      39.1,
      51.7
@@ -1702,7 +1702,7 @@
     "sw_pct": 37.288,
     "win_pct": 6.356
    },
-   "n": 237
+   "n": 238
   },
   "PT_is": {
    "horizons": {
@@ -1981,7 +1981,7 @@
     },
     "faded_pct": 5.128,
     "labeled": 78,
-    "pending": 0,
+    "pending": 1,
     "rug_ci": [
      59.6,
      79.5
@@ -1996,7 +1996,7 @@
     "sw_pct": 24.359,
     "win_pct": 5.128
    },
-   "n": 78
+   "n": 79
   },
   "P_is": {
    "horizons": {
@@ -2177,7 +2177,7 @@
     },
     "faded_pct": 16.312,
     "labeled": 141,
-    "pending": 1,
+    "pending": 2,
     "rug_ci": [
      42.9,
      59.2
@@ -2192,7 +2192,7 @@
     "sw_pct": 32.624,
     "win_pct": 4.965
    },
-   "n": 142
+   "n": 143
   },
   "V": {
    "horizons": {
@@ -2294,6 +2294,21 @@
   }
  },
  "hits": [
+  {
+   "ca": "4xzrwx…pump",
+   "chain": "solana",
+   "last": null,
+   "o": {
+    "1h": null,
+    "24h": null,
+    "6h": null
+   },
+   "rule": "P",
+   "s": "OOS",
+   "t": "2026-10-16 19:59",
+   "tw": false,
+   "x": null
+  },
   {
    "ca": "mrVR4c…pump",
    "chain": "solana",
@@ -8415,15 +8430,15 @@
    "x": null
   }
  ],
- "hits_clean": 408,
+ "hits_clean": 409,
  "hits_excluded": 157,
- "hits_total": 565,
- "last_hit_pt": "Oct 16, 2026 7:34 PM PT",
- "last_scan_pt": "Oct 16, 2026 7:34 PM PT",
+ "hits_total": 566,
+ "last_hit_pt": "Oct 16, 2026 7:59 PM PT",
+ "last_scan_pt": "Oct 16, 2026 7:59 PM PT",
  "oos": {
   "first_pt": "Oct 9, 2026 10:16 AM PT",
   "last_is_pt": "Oct 9, 2026 9:54 AM PT",
-  "n_P_oos": 142
+  "n_P_oos": 143
  },
  "p_by_day": {
   "2026-10-05": {
@@ -8508,10 +8523,10 @@
    "RUG": 7,
    "SURVIVOR": 8,
    "WINNER": 0,
-   "pending": 1
+   "pending": 2
   }
  },
- "scans": 292,
+ "scans": 293,
  "site": {
   "name": "New LP Desk",
   "title": "New LP Desk: Paper Track Record"
@@ -8520,6 +8535,6 @@
   "min_pool_age_min": 60,
   "min_sell_share_h24": 0.35
  },
- "updated_iso": "2026-10-16T19:34:00-07:00",
- "updated_pt": "Oct 16, 2026 7:34 PM PT"
+ "updated_iso": "2026-10-16T19:59:00-07:00",
+ "updated_pt": "Oct 16, 2026 7:59 PM PT"
 }
